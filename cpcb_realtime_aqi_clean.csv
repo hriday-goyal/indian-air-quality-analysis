@@ -1,0 +1,499 @@
+state,city,station,latitude,longitude,last_update,CO,NH3,NO2,OZONE,PM10,PM2.5,SO2
+Andhra Pradesh,Anantapur,"Gulzarpet, Anantapur - APPCB",14.675886,77.593027,2026-08-23 10:00:00,31.0,5.0,21.0,20.0,70.0,70.0,14.0
+Andhra Pradesh,Chittoor,"Gangineni Cheruvu, Chittoor - APPCB",13.20488,79.097889,2026-08-23 10:00:00,21.0,6.0,28.0,29.0,73.0,75.0,22.0
+Andhra Pradesh,Eluru,"District Court, Eluru - APPCB",16.711754,81.092095,2026-08-23 10:00:00,10.0,4.0,18.0,10.0,53.0,51.0,9.0
+Andhra Pradesh,Guntur,"Rajendra Nagar North, Guntur - APPCB",16.316553,80.413302,2026-08-23 10:00:00,19.0,7.0,33.0,22.0,67.0,58.0,11.0
+Andhra Pradesh,Kadapa,"Yerramukkapalli, Kadapa - APPCB",14.465052,78.824187,2026-08-23 10:00:00,42.0,2.0,24.0,29.0,44.0,46.0,17.0
+Andhra Pradesh,Nellore,"Ambedkar Nagar, Nellore - APPCB ",14.438164,79.966814,2026-08-23 10:00:00,33.0,7.0,26.0,22.0,55.0,48.0,7.0
+Andhra Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",16.9872867,81.7363176,2026-08-23 10:00:00,17.0,2.0,9.0,18.0,50.0,26.0,5.0
+Andhra Pradesh,Srikakulam,"Chinna Bharatham Colony, Srikakulam - APPCB",18.292191,83.897173,2026-08-23 10:00:00,70.0,2.0,23.0,10.0,25.0,17.0,14.0
+Andhra Pradesh,Tirumala,"Toll Gate, Tirumala - APPCB",13.67,79.35,2026-08-23 10:00:00,16.0,2.0,43.0,9.0,41.0,20.0,7.0
+Andhra Pradesh,Tirupati,"Vaikuntapuram, Tirupati - APPCB",13.615387,79.40923,2026-08-23 10:00:00,27.0,5.0,25.0,32.0,80.0,48.0,11.0
+Andhra Pradesh,Vijayawada,"HB Colony, Vijayawada - APPCB",16.536107,80.594233,2026-08-23 10:00:00,34.0,3.0,15.0,16.0,66.0,64.0,8.0
+Andhra Pradesh,Vijayawada,"Rajiv Gandhi Park, Vijayawada - APPCB",16.509717,80.612222,2026-08-23 10:00:00,31.0,6.0,32.0,21.0,75.0,68.0,16.0
+Andhra Pradesh,Vijayawada,"Rajiv Nagar, Vijayawada - APPCB",16.554731,80.64911,2026-08-23 10:00:00,19.0,3.0,18.0,19.0,69.0,65.0,16.0
+Andhra Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",17.72,83.3,2026-08-23 10:00:00,13.0,4.0,70.0,25.0,73.0,49.0,11.0
+Arunachal Pradesh,Naharlagun,"Naharlagun, Naharlagun - APSPCB",27.103358,93.679645,2026-08-23 10:00:00,9.0,1.0,8.0,7.0,40.0,33.0,11.0
+Assam,Byrnihat,"Central Academy for SFS, Byrnihat - PCBA",26.071318,91.87488,2026-08-23 10:00:00,58.0,4.0,8.0,19.0,93.0,113.0,30.0
+Assam,Guwahati,"IITG, Guwahati - PCBA",26.2028636,91.70046436,2026-08-23 10:00:00,84.0,1.0,2.0,2.0,,,32.0
+Assam,Guwahati,"LGBI Airport, Guwahati - PCBA",26.10887,91.589544,2026-08-23 10:00:00,35.0,4.0,14.0,14.0,46.0,59.0,13.0
+Assam,Guwahati,"Pan Bazaar, Guwahati - PCBA",26.1875,91.744194,2026-08-23 10:00:00,15.0,1.0,2.0,11.0,10.0,10.0,28.0
+Assam,Guwahati,"Railway Colony, Guwahati - PCBA",26.181742,91.78063,2026-08-23 10:00:00,13.0,1.0,3.0,11.0,38.0,39.0,6.0
+Assam,Nagaon,"Christianpatty, Nagaon - PCBA",26.349082,92.68449,2026-08-23 10:00:00,22.0,4.0,1.0,11.0,51.0,58.0,11.0
+Assam,Nalbari,"Bata Chowk, Nalbari - PCBA",26.446912,91.439057,2026-08-23 10:00:00,22.0,6.0,14.0,19.0,64.0,89.0,8.0
+Assam,Silchar,"Tarapur, Silchar - PCBA",24.82827,92.79525,2026-08-23 10:00:00,28.0,1.0,20.0,5.0,47.0,37.0,6.0
+Assam,Sivasagar,"Girls College, Sivasagar - PCBA",26.987634,94.636574,2026-08-23 10:00:00,16.0,3.0,11.0,23.0,31.0,21.0,8.0
+Bihar,Araria,"Kharahiya Basti, Araria - BSPCB",26.146529,87.454184,2026-08-23 10:00:00,27.0,4.0,15.0,38.0,53.0,45.0,21.0
+Bihar,Arrah,"New DM Office, Arrah - BSPCB",25.5626095,84.663264,2026-08-23 10:00:00,52.0,2.0,7.0,8.0,42.0,35.0,5.0
+Bihar,Aurangabad,"Gurdeo Nagar, Aurangabad - BSPCB",24.75746,84.366208,2026-08-23 10:00:00,,0.0,1.0,1.0,50.0,68.0,22.0
+Bihar,Begusarai,"Lohiyanagar, Begusarai - BSPCB",25.42742023,86.13886079,2026-08-23 10:00:00,17.0,16.0,9.0,39.0,133.0,79.0,21.0
+Bihar,Bettiah,"Kamalnath Nagar, Bettiah - BSPCB",26.80365,84.51954,2026-08-23 10:00:00,34.0,3.0,26.0,20.0,21.0,23.0,17.0
+Bihar,Bhagalpur,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",25.251013,86.989001,2026-08-23 10:00:00,28.0,4.0,12.0,18.0,166.0,110.0,22.0
+Bihar,Bhagalpur,"Mayaganj, Bhagalpur - BSPCB",25.265194,87.012947,2026-08-23 10:00:00,64.0,4.0,17.0,16.0,139.0,177.0,33.0
+Bihar,Chhapra,"Darshan Nagar, Chhapra - BSPCB",25.7808257,84.7446768,2026-08-23 10:00:00,88.0,2.0,1.0,2.0,114.0,94.0,29.0
+Bihar,Gaya,"Collectorate, Gaya - BSPCB",24.7955,84.9994,2026-08-23 10:00:00,12.0,,9.0,29.0,,97.0,7.0
+Bihar,Gaya,"Kareemganj, Gaya - BSPCB",24.792403,84.992416,2026-08-23 10:00:00,51.0,1.0,,44.0,,,42.0
+Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB",24.762518,84.982348,2026-08-23 10:00:00,29.0,8.0,30.0,6.0,46.0,38.0,10.0
+Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",25.697189,85.2459,2026-08-23 10:00:00,29.0,9.0,14.0,19.0,52.0,60.0,7.0
+Bihar,Katihar,"Mirchaibari, Katihar - BSPCB",25.560083,87.553265,2026-08-23 10:00:00,74.0,1.0,2.0,28.0,33.0,32.0,19.0
+Bihar,Kishanganj,"SDM Office_Khagra, Kishanganj - BSPCB",26.0881305,87.93840336,2026-08-23 10:00:00,46.0,3.0,7.0,33.0,44.0,47.0,7.0
+Bihar,Manguraha,"Forest Rest House, Manguraha - BSPCB",27.308328,84.531742,2026-08-23 10:00:00,28.0,1.0,15.0,29.0,76.0,,17.0
+Bihar,Motihari,"Gandak Colony, Motihari - BSPCB",26.63086,84.90051,2026-08-23 10:00:00,,1.0,3.0,,,,3.0
+Bihar,Munger,"Town Hall, Munger - BSPCB",25.376776,86.471523,2026-08-23 10:00:00,36.0,3.0,12.0,15.0,38.0,28.0,74.0
+Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",26.11442,85.39813,2026-08-23 10:00:00,18.0,8.0,18.0,21.0,68.0,70.0,7.0
+Bihar,Muzaffarpur,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",26.1403345,85.3650192,2026-08-23 10:00:00,9.0,1.0,7.0,9.0,38.0,32.0,23.0
+Bihar,Patna,"DRM Office Danapur, Patna - BSPCB",25.586562,85.043586,2026-08-23 10:00:00,46.0,9.0,23.0,40.0,74.0,52.0,6.0
+Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB",25.592539,85.227158,2026-08-23 10:00:00,37.0,6.0,6.0,31.0,60.0,42.0,13.0
+Bihar,Patna,"Muradpur, Patna - BSPCB",25.619651,85.147382,2026-08-23 10:00:00,49.0,5.0,5.0,11.0,76.0,50.0,9.0
+Bihar,Patna,"Samanpura, Patna - BSPCB",25.596727,85.085624,2026-08-23 10:00:00,22.0,5.0,24.0,23.0,106.0,120.0,3.0
+Bihar,Purnia,"Mariam Nagar, Purnia - BSPCB",25.366336,87.117468,2026-08-23 10:00:00,56.0,4.0,18.0,26.0,23.0,29.0,16.0
+Bihar,Saharsa,"Police Line, Saharsa - BSPCB",25.892357,86.590325,2026-08-23 10:00:00,41.0,4.0,7.0,13.0,56.0,,17.0
+Bihar,Samastipur,"DM Office_Kasipur, Samastipur - BSPCB",25.859655,85.77944,2026-08-23 10:00:00,,1.0,8.0,6.0,66.0,95.0,12.0
+Bihar,Sasaram,"Dada Peer, Sasaram - BSPCB",24.952822,84.002396,2026-08-23 10:00:00,13.0,3.0,3.0,17.0,72.0,102.0,4.0
+Bihar,Siwan,"Chitragupta Nagar, Siwan - BSPCB",26.2271665,84.3570427,2026-08-23 10:00:00,97.0,1.0,2.0,10.0,101.0,75.0,12.0
+Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",30.735567,76.775714,2026-08-23 10:00:00,30.0,14.0,7.0,13.0,27.0,22.0,5.0
+Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",30.751462,76.762879,2026-08-23 10:00:00,15.0,15.0,10.0,20.0,36.0,26.0,6.0
+Chandigarh,Chandigarh,"Sector-53, Chandigarh - CPCC",30.719859,76.738637,2026-08-23 10:00:00,33.0,16.0,10.0,8.0,19.0,,2.0
+Chhattisgarh,Bhilai,"32Bungalows, Bhilai - CECB",21.194815,81.31477,2026-08-23 10:00:00,13.0,5.0,9.0,5.0,25.0,20.0,11.0
+Chhattisgarh,Bhilai,"Hathkhoj, Bhilai - CECB",21.224231,81.40835,2026-08-23 10:00:00,19.0,11.0,24.0,5.0,32.0,35.0,21.0
+Chhattisgarh,Bilaspur,"Mangala, Bilaspur - NTPC",22.08815,82.13737,2026-08-23 10:00:00,14.0,,20.0,,37.0,29.0,12.0
+Chhattisgarh,Chhal,"Nawapara SECL Colony, Chhal - CECB",22.118125,83.140608,2026-08-23 10:00:00,24.0,,8.0,35.0,82.0,65.0,8.0
+Chhattisgarh,Korba,"Rampur, Korba - CECB",22.368195,82.746431,2026-08-23 10:00:00,9.0,1.0,7.0,18.0,22.0,22.0,13.0
+Chhattisgarh,Korba,"Urja Nagar, Korba - CECB",22.348441,82.549611,2026-08-23 10:00:00,14.0,1.0,4.0,5.0,15.0,13.0,11.0
+Chhattisgarh,Kunjemura,"OP Jindal School, Kunjemura - CECB",22.12665,83.483212,2026-08-23 10:00:00,35.0,2.0,23.0,5.0,71.0,25.0,12.0
+Chhattisgarh,Milupara,"Govt. Higher Secondary School, Milupara - CECB",22.1910172,83.5197009,2026-08-23 10:00:00,26.0,2.0,29.0,57.0,48.0,32.0,16.0
+Chhattisgarh,Raipur,"AIIMS, Raipur - CECB",21.258815,81.578979,2026-08-23 10:00:00,18.0,2.0,1.0,6.0,31.0,25.0,4.0
+Chhattisgarh,Raipur,"Bhatagaon New ISBT, Raipur - CECB",21.219665,81.630094,2026-08-23 10:00:00,22.0,2.0,11.0,3.0,26.0,14.0,2.0
+Chhattisgarh,Raipur,"Krishak Nagar, Raipur - CECB",21.237755,81.705301,2026-08-23 10:00:00,16.0,2.0,12.0,1.0,30.0,30.0,7.0
+Chhattisgarh,Raipur,"Siltara Phase-II, Raipur - CECB",21.371751,81.664929,2026-08-23 10:00:00,17.0,2.0,,6.0,79.0,44.0,11.0
+Chhattisgarh,Tumidih,"OP Jindal Industrial Park, Tumidih - CECB",22.06631475,83.33820077,2026-08-23 10:00:00,37.0,2.0,35.0,,56.0,56.0,5.0
+Delhi,Delhi,"Alipur, Delhi - DPCC",28.815329,77.15301,2026-08-23 10:00:00,32.0,7.0,45.0,8.0,91.0,77.0,9.0
+Delhi,Delhi,"Anand Vihar, Delhi - DPCC",28.647622,77.315809,2026-08-23 10:00:00,113.0,10.0,33.0,3.0,209.0,125.0,30.0
+Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",28.695381,77.181665,2026-08-23 10:00:00,76.0,8.0,21.0,7.0,103.0,80.0,15.0
+Delhi,Delhi,"Aya Nagar, Delhi - IITM",28.4706914,77.1099364,2026-08-23 10:00:00,25.0,,32.0,11.0,94.0,56.0,
+Delhi,Delhi,"Burari Crossing, Delhi - IITM",28.7256504,77.2011573,2026-08-23 10:00:00,49.0,,39.0,28.0,85.0,57.0,
+Delhi,Delhi,"CRRI Mathura Road, Delhi - IITM",28.5512005,77.2735737,2026-08-23 10:00:00,13.0,,41.0,15.0,105.0,58.0,
+Delhi,Delhi,"Cantonment Area, Delhi - DPCC",28.594169,77.1251,2026-08-23 10:00:00,72.0,4.0,8.0,3.0,,32.0,4.0
+Delhi,Delhi,"Chandni Chowk, Delhi - IITM",28.656756,77.227234,2026-08-23 10:00:00,77.0,4.0,39.0,21.0,117.0,71.0,9.0
+Delhi,Delhi,"Commonwealth Sports Complex, Delhi - DPCC",28.615828,77.271992,2026-08-23 10:00:00,44.0,2.0,28.0,14.0,86.0,64.0,6.0
+Delhi,Delhi,"DTU, Delhi - CPCB",28.7500499,77.1112615,2026-08-23 10:00:00,14.0,8.0,23.0,16.0,74.0,55.0,33.0
+Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",28.498571,77.26484,2026-08-23 10:00:00,29.0,5.0,20.0,9.0,90.0,62.0,7.0
+Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",28.5710274,77.0719006,2026-08-23 10:00:00,38.0,8.0,31.0,11.0,143.0,36.0,12.0
+Delhi,Delhi,"IGI Airport (T3), Delhi - IITM",28.5627763,77.1180053,2026-08-23 10:00:00,38.0,,68.0,36.0,101.0,50.0,
+Delhi,Delhi,"IGNOU_Maidan Garhi, Delhi - DPCC",28.493624,77.201159,2026-08-23 10:00:00,48.0,3.0,8.0,7.0,81.0,32.0,6.0
+Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",28.6811736,77.3025234,2026-08-23 10:00:00,22.0,5.0,28.0,8.0,73.0,65.0,18.0
+Delhi,Delhi,"IIT Delhi, Delhi - IITM",28.54246,77.191651,2026-08-23 10:00:00,20.0,,21.0,7.0,130.0,58.0,
+Delhi,Delhi,"IMD Lodhi Road, Delhi - IITM",28.5918245,77.2273074,2026-08-23 10:00:00,24.0,,12.0,19.0,101.0,,
+Delhi,Delhi,"ITO, Delhi - CPCB",28.628624,77.24106,2026-08-23 10:00:00,42.0,4.0,70.0,52.0,94.0,52.0,19.0
+Delhi,Delhi,"JNU, Delhi - DPCC",28.540721,77.168544,2026-08-23 10:00:00,36.0,1.0,18.0,2.0,80.0,70.0,3.0
+Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",28.73282,77.170633,2026-08-23 10:00:00,84.0,9.0,23.0,7.0,136.0,128.0,5.0
+Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",28.58028,77.233829,2026-08-23 10:00:00,31.0,8.0,15.0,32.0,102.0,75.0,8.0
+Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",28.611281,77.237738,2026-08-23 10:00:00,19.0,9.0,30.0,15.0,90.0,49.0,18.0
+Delhi,Delhi,"Mandir Marg, Delhi - DPCC",28.636429,77.201067,2026-08-23 10:00:00,59.0,8.0,24.0,12.0,98.0,86.0,33.0
+Delhi,Delhi,"Mundka, Delhi - DPCC",28.684678,77.076574,2026-08-23 10:00:00,41.0,8.0,70.0,6.0,108.0,44.0,19.0
+Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",28.60909,77.0325413,2026-08-23 10:00:00,88.0,6.0,32.0,19.0,72.0,30.0,16.0
+Delhi,Delhi,"NSUT Jaffarpur, Delhi - DPCC",28.594004,76.909423,2026-08-23 10:00:00,36.0,,18.0,7.0,75.0,58.0,1.0
+Delhi,Delhi,"Najafgarh, Delhi - DPCC",28.570173,76.933762,2026-08-23 10:00:00,16.0,7.0,19.0,14.0,85.0,45.0,18.0
+Delhi,Delhi,"Narela, Delhi - DPCC",28.822836,77.101981,2026-08-23 10:00:00,26.0,11.0,26.0,17.0,97.0,67.0,11.0
+Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",28.56789,77.250515,2026-08-23 10:00:00,43.0,7.0,31.0,8.0,118.0,72.0,10.0
+Delhi,Delhi,"North Campus, DU, Delhi - IITM",28.6573814,77.1585447,2026-08-23 10:00:00,45.0,,113.0,42.0,112.0,74.0,
+Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",28.530785,77.271255,2026-08-23 10:00:00,56.0,10.0,28.0,8.0,113.0,60.0,10.0
+Delhi,Delhi,"Patparganj, Delhi - DPCC",28.623763,77.287209,2026-08-23 10:00:00,40.0,8.0,19.0,12.0,88.0,38.0,7.0
+Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",28.674045,77.131023,2026-08-23 10:00:00,38.0,3.0,21.0,4.0,113.0,65.0,38.0
+Delhi,Delhi,"Pusa, Delhi - DPCC",28.639652,77.146275,2026-08-23 10:00:00,59.0,9.0,35.0,1.0,112.0,54.0,7.0
+Delhi,Delhi,"Pusa, Delhi - IITM",28.63611,77.173332,2026-08-23 10:00:00,40.0,,45.0,17.0,82.0,48.0,
+Delhi,Delhi,"R K Puram, Delhi - DPCC",28.563262,77.186937,2026-08-23 10:00:00,41.0,6.0,33.0,27.0,110.0,94.0,8.0
+Delhi,Delhi,"Rohini, Delhi - DPCC",28.732528,77.11992,2026-08-23 10:00:00,41.0,4.0,4.0,12.0,122.0,88.0,9.0
+Delhi,Delhi,"Shadipur, Delhi - CPCB",28.6514781,77.1473105,2026-08-23 10:00:00,25.0,8.0,37.0,29.0,75.0,38.0,17.0
+Delhi,Delhi,"Sirifort, Delhi - CPCB",28.5504249,77.2159377,2026-08-23 10:00:00,22.0,5.0,41.0,24.0,110.0,83.0,39.0
+Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",28.710508,77.249485,2026-08-23 10:00:00,38.0,14.0,37.0,14.0,99.0,61.0,10.0
+Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",28.531346,77.190156,2026-08-23 10:00:00,40.0,2.0,22.0,7.0,92.0,57.0,66.0
+Delhi,Delhi,"Talkatora Garden, Delhi - DPCC",28.62181,77.1944633,2026-08-23 10:00:00,49.0,2.0,16.0,8.0,79.0,61.0,1.0
+Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",28.672342,77.31526,2026-08-23 10:00:00,59.0,6.0,32.0,22.0,98.0,42.0,8.0
+Delhi,Delhi,"Wazirpur, Delhi - DPCC",28.699793,77.165453,2026-08-23 10:00:00,51.0,6.0,36.0,5.0,163.0,98.0,20.0
+Gujarat,Ahmedabad,"Chandkheda, Ahmedabad - IITM",23.107969,72.574648,2026-08-23 10:00:00,8.0,7.0,11.0,6.0,87.0,49.0,8.0
+Gujarat,Ahmedabad,"Gyaspur, Ahmedabad - IITM",22.977134,72.553024,2026-08-23 10:00:00,51.0,4.0,43.0,25.0,115.0,56.0,10.0
+Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",23.002657,72.591912,2026-08-23 10:00:00,22.0,,41.0,25.0,87.0,68.0,25.0
+Gujarat,Ahmedabad,"Raikhad, Ahmedabad - IITM",23.020509,72.579261,2026-08-23 10:00:00,42.0,1.0,11.0,6.0,73.0,41.0,7.0
+Gujarat,Ahmedabad,"Rakhial, Ahmedabad - IITM",23.016834,72.625775,2026-08-23 10:00:00,66.0,2.0,18.0,6.0,86.0,63.0,33.0
+Gujarat,Ahmedabad,"SAC ISRO Bopal, Ahmedabad - IITM",23.041137,72.456691,2026-08-23 10:00:00,32.0,,25.0,,49.0,43.0,3.0
+Gujarat,Ahmedabad,"SAC ISRO Satellite, Ahmedabad - IITM",23.023389,72.515201,2026-08-23 10:00:00,12.0,1.0,26.0,16.0,85.0,70.0,2.0
+Gujarat,Ahmedabad,"SVPI Airport Hansol, Ahmedabad - IITM",23.076793,72.627874,2026-08-23 10:00:00,18.0,2.0,27.0,6.0,102.0,31.0,10.0
+Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",21.613267,73.010555,2026-08-23 10:00:00,44.0,5.0,26.0,31.0,,39.0,19.0
+Gujarat,Bhavnagar,"Vidhyanagar, Bhavnagar - Nexteng Enviro",21.755417,72.139056,2026-08-23 10:00:00,60.0,5.0,46.0,17.0,59.0,27.0,7.0
+Gujarat,Gandhinagar,"GIFT City, Gandhinagar - IITM",23.163798,72.677768,2026-08-23 10:00:00,15.0,6.0,23.0,4.0,103.0,50.0,6.0
+Gujarat,Gandhinagar,"IIPHG Lekawada, Gandhinagar - IITM",23.243639,72.68994,2026-08-23 10:00:00,10.0,1.0,10.0,3.0,128.0,48.0,2.0
+Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB",23.221714,72.654328,2026-08-23 10:00:00,14.0,0.0,4.0,,61.0,46.0,3.0
+Gujarat,Mehsana,"Sadanand Nagar, Mehsana - Nexteng Enviro",23.59315,72.372792,2026-08-23 10:00:00,45.0,0.0,4.0,9.0,77.0,37.0,14.0
+Gujarat,Nandesari,"GIDC, Nandesari - Nandesari Ind. Association",22.410802,73.097923,2026-08-23 10:00:00,32.0,,,,45.0,41.0,3.0
+Gujarat,Rajkot,"Mavdi, Rajkot - Nexteng Enviro ",22.248853,70.776774,2026-08-23 10:00:00,41.0,1.0,6.0,8.0,48.0,33.0,10.0
+Gujarat,Surat,"Katargam, Surat - Nexteng Enviro",21.217779,72.834787,2026-08-23 10:00:00,47.0,1.0,20.0,8.0,56.0,34.0,9.0
+Gujarat,Surat,"Science Center, Surat - SMC",21.170046,72.795405,2026-08-23 10:00:00,38.0,,5.0,,41.0,44.0,16.0
+Gujarat,Vadodara,"Bapunagar, Vadodara - Nexteng Enviro",22.320153,73.216285,2026-08-23 10:00:00,76.0,2.0,11.0,3.0,61.0,43.0,8.0
+Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",20.362421,72.918013,2026-08-23 10:00:00,,5.0,13.0,6.0,35.0,17.0,16.0
+Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",22.969611,72.6435,2026-08-23 10:00:00,36.0,5.0,36.0,11.0,111.0,97.0,23.0
+Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",30.379589,76.778328,2026-08-23 10:00:00,26.0,6.0,7.0,39.0,136.0,51.0,86.0
+Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",28.6701,76.9254,2026-08-23 10:00:00,33.0,8.0,29.0,41.0,81.0,47.0,8.0
+Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",28.3419248,77.319699,2026-08-23 10:00:00,17.0,4.0,20.0,37.0,82.0,98.0,5.0
+Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",28.806223,76.141105,2026-08-23 10:00:00,21.0,9.0,15.0,26.0,129.0,45.0,6.0
+Haryana,Charkhi Dadri,"Mini Secretariat, Charkhi Dadri - HSPCB",28.593883,76.270653,2026-08-23 10:00:00,16.0,6.0,16.0,20.0,63.0,85.0,8.0
+Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",28.2068,76.7997,2026-08-23 10:00:00,36.0,7.0,21.0,10.0,67.0,71.0,8.0
+Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB",28.39072,77.30059,2026-08-23 10:00:00,22.0,11.0,25.0,14.0,58.0,73.0,17.0
+Haryana,Faridabad,"Sector 11, Faridabad - HSPCB",28.376058,77.315741,2026-08-23 10:00:00,53.0,9.0,31.0,16.0,153.0,224.0,7.0
+Haryana,Faridabad,"Sector 30, Faridabad - HSPCB",28.4417,77.3217,2026-08-23 10:00:00,25.0,12.0,37.0,26.0,85.0,,2.0
+Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",29.503664,75.467934,2026-08-23 10:00:00,51.0,14.0,19.0,27.0,32.0,18.0,64.0
+Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IITM",28.422681,77.148944,2026-08-23 10:00:00,30.0,,6.0,6.0,91.0,65.0,
+Haryana,Gurugram,"Sector-51, Gurugram - HSPCB",28.4227,77.0667,2026-08-23 10:00:00,48.0,13.0,40.0,18.0,103.0,110.0,8.0
+Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB",28.4275,77.1465,2026-08-23 10:00:00,14.0,12.0,43.0,10.0,122.0,135.0,12.0
+Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",29.14056,75.744941,2026-08-23 10:00:00,13.0,11.0,27.0,70.0,77.0,46.0,14.0
+Haryana,Jind,"Police Lines, Jind - HSPCB",29.307814,76.337619,2026-08-23 10:00:00,7.0,5.0,13.0,11.0,63.0,96.0,28.0
+Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",29.8006,76.4155,2026-08-23 10:00:00,19.0,5.0,22.0,21.0,85.0,73.0,
+Haryana,Karnal,"Sector-12, Karnal - HSPCB",29.6953,77.0027,2026-08-23 10:00:00,54.0,8.0,15.0,12.0,34.0,30.0,13.0
+Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",29.966942,76.875879,2026-08-23 10:00:00,20.0,5.0,8.0,5.0,63.0,59.0,7.0
+Haryana,Mandikhera,"General Hospital, Mandikhera(Nuh) - HSPCB",27.9002,76.9938,2026-08-23 10:00:00,50.0,7.0,16.0,47.0,39.0,17.0,17.0
+Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",28.360699,76.93609,2026-08-23 10:00:00,14.0,18.0,50.0,17.0,100.0,133.0,12.0
+Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",28.060249,76.113115,2026-08-23 10:00:00,13.0,5.0,45.0,17.0,109.0,59.0,10.0
+Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",28.1485564,77.3320667,2026-08-23 10:00:00,54.0,6.0,24.0,10.0,100.0,49.0,20.0
+Haryana,Panchgaon,"Amity University, Panchgaon - IITM",28.3153,76.9143,2026-08-23 10:00:00,90.0,3.0,27.0,,44.0,51.0,15.0
+Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",30.7057778,76.8531805555555,2026-08-23 10:00:00,20.0,,30.0,45.0,,47.0,11.0
+Haryana,Panipat,"Sector-18, Panipat - HSPCB",29.432304,76.972765,2026-08-23 10:00:00,32.0,9.0,7.0,49.0,127.0,129.0,48.0
+Haryana,Rohtak,"MD University, Rohtak - HSPCB",28.52123,76.37138,2026-08-23 10:00:00,36.0,,10.0,19.0,66.0,59.0,11.0
+Haryana,Sirsa,"F-Block, Sirsa - HSPCB",29.5364,75.0158,2026-08-23 10:00:00,86.0,13.0,20.0,26.0,78.0,43.0,36.0
+Haryana,Sonipat,"Murthal, Sonipat - HSPCB",29.0272,77.0621,2026-08-23 10:00:00,21.0,9.0,7.0,50.0,51.0,5.0,21.0
+Haryana,Yamuna Nagar,"Gobind Pura, Yamuna Nagar - HSPCB",30.1480566,77.2893471,2026-08-23 10:00:00,40.0,4.0,17.0,35.0,72.0,77.0,11.0
+Himachal Pradesh,Baddi,"HIMUDA Complex Phase-1, Baddi - HPPCB",30.943887,76.801991,2026-08-23 10:00:00,101.0,4.0,15.0,21.0,104.0,54.0,
+Jammu and Kashmir,Pampore,"Khrew, Pampore - JKPCC",34.031606,75.009712,2026-08-23 10:00:00,,,14.0,,44.0,31.0,
+Jammu and Kashmir,Srinagar,"Khunmoh, Srinagar - JKPCC",34.06313,74.96017,2026-08-23 10:00:00,,,12.0,,59.0,33.0,4.0
+Jammu and Kashmir,Srinagar,"Rajbagh, Srinagar - JKPCC",34.066206,74.81982,2026-08-23 10:00:00,13.0,9.0,19.0,1.0,42.0,27.0,3.0
+Jharkhand,Dhanbad,"Sardar Patel Nagar, Dhanbad - JSPCB",23.80569,86.44268,2026-08-23 10:00:00,3.0,,102.0,14.0,,,
+Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",23.707909,86.41467,2026-08-23 10:00:00,39.0,3.0,8.0,6.0,103.0,63.0,21.0
+Karnataka,Belgaum,"Ramteerth Nagar, Belgaum - KSPCB",15.888653,74.541751,2026-08-23 10:00:00,2.0,,,19.0,,,
+Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",12.951913,77.539784,2026-08-23 10:00:00,34.0,3.0,23.0,22.0,42.0,22.0,26.0
+Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",12.9756843,77.5660749,2026-08-23 10:00:00,57.0,,30.0,,92.0,,12.0
+Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",13.029152,77.585901,2026-08-23 10:00:00,40.0,2.0,16.0,2.0,27.0,18.0,
+Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",12.938539,77.5901,2026-08-23 10:00:00,8.0,1.0,22.0,,48.0,32.0,7.0
+Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",12.920984,77.584908,2026-08-23 10:00:00,9.0,1.0,8.0,41.0,41.0,29.0,23.0
+Karnataka,Bengaluru,"Jigani, Bengaluru - KSPCB",12.7816279,77.6299145,2026-08-23 10:00:00,36.0,3.0,18.0,21.0,61.0,40.0,16.0
+Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",13.0270199,77.494094,2026-08-23 10:00:00,33.0,4.0,17.0,,,10.0,10.0
+Karnataka,Bengaluru,"Shivapura_Peenya, Bengaluru - KSPCB",13.0246342,77.5080115,2026-08-23 10:00:00,,4.0,29.0,23.0,66.0,39.0,5.0
+Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",12.917348,77.622813,2026-08-23 10:00:00,31.0,2.0,18.0,14.0,101.0,37.0,22.0
+Karnataka,Chamarajanagar,"Urban, Chamarajanagar - KSPCB",11.55358,76.55521,2026-08-23 10:00:00,23.0,2.0,28.0,26.0,45.0,30.0,4.0
+Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",13.428828,77.731418,2026-08-23 10:00:00,15.0,,,18.0,,,
+Karnataka,Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB",13.328028,75.797056,2026-08-23 10:00:00,18.0,2.0,15.0,24.0,38.0,27.0,2.0
+Karnataka,Gadag,"Panchal Nagar, Gadag - KSPCB",15.411456,75.638133,2026-08-23 10:00:00,69.0,4.0,18.0,17.0,98.0,84.0,31.0
+Karnataka,Hubballi,"Lingaraj Nagar, Hubballi - KSPCB",15.3714823,75.1160168,2026-08-23 10:00:00,11.0,2.0,10.0,26.0,55.0,40.0,2.0
+Karnataka,Kalaburagi,"Mahatma Basaveswar Colony, Kalaburgi - KSPCB",17.336318,76.847397,2026-08-23 10:00:00,27.0,2.0,11.0,13.0,23.0,16.0,5.0
+Karnataka,Karwar,"KHB Colony, Karwar - KSPCB",14.816666,74.141003,2026-08-23 10:00:00,,34.0,66.0,,16.0,13.0,
+Karnataka,Madikeri,"Stuart Hill, Madikeri - KSPCB",12.415911,75.73505,2026-08-23 10:00:00,11.0,1.0,2.0,2.0,11.0,9.0,7.0
+Karnataka,Mangalore,"Kadri, Mangalore - KSPCB",12.88925,74.853,2026-08-23 10:00:00,,3.0,5.0,34.0,43.0,34.0,
+Karnataka,Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",12.21041,76.37376,2026-08-23 10:00:00,6.0,5.0,21.0,,48.0,18.0,3.0
+Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",12.733409,77.298051,2026-08-23 10:00:00,29.0,,,28.0,35.0,19.0,18.0
+Karnataka,Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB",13.94,75.555917,2026-08-23 10:00:00,14.0,3.0,19.0,22.0,33.0,21.0,3.0
+Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB",16.7602,77.1428,2026-08-23 10:00:00,15.0,0.0,4.0,35.0,28.0,10.0,
+Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB",10.073232,76.302765,2026-08-23 10:00:00,46.0,0.0,6.0,29.0,65.0,56.0,0.0
+Kerala,Kannur,"Thavakkara, Kannur - Kerala PCB",11.875,75.3732,2026-08-23 10:00:00,14.0,1.0,12.0,28.0,78.0,92.0,0.0
+Kerala,Thiruvananthapuram,"Kariavattom, Thiruvananthapuram - Kerala PCB",8.5637,76.8865,2026-08-23 10:00:00,22.0,0.0,6.0,30.0,75.0,41.0,5.0
+Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",8.5149093,76.9435879,2026-08-23 10:00:00,9.0,1.0,3.0,15.0,26.0,17.0,16.0
+Kerala,Thrissur,"Corporation Ground, Thrissur - Kerala PCB",10.5324,76.2159,2026-08-23 10:00:00,26.0,0.0,9.0,30.0,54.0,53.0,0.0
+Ladakh,Leh,"Skara Yokma, Leh - LPCC",34.147096,77.55709,2026-08-23 10:00:00,187.0,,,107.0,18.0,14.0,10.0
+Madhya Pradesh,Bhopal,"Paryavaran Parisar, Bhopal - MPPCB",23.210494,77.425409,2026-08-23 10:00:00,14.0,2.0,12.0,28.0,60.0,44.0,7.0
+Madhya Pradesh,Bhopal,"T T Nagar, Bhopal - MPPCB",23.233584,77.400574,2026-08-23 10:00:00,25.0,6.0,17.0,24.0,73.0,42.0,23.0
+Madhya Pradesh,Damoh,"Shrivastav Colony, Damoh - MPPCB",23.81748678,79.446246,2026-08-23 10:00:00,19.0,,6.0,,18.0,15.0,49.0
+Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",22.9682591,76.064118,2026-08-23 10:00:00,17.0,2.0,57.0,54.0,65.0,38.0,56.0
+Madhya Pradesh,Gwalior,"City Center, Gwalior - MPPCB",26.203442,78.193251,2026-08-23 10:00:00,40.0,2.0,44.0,41.0,40.0,50.0,26.0
+Madhya Pradesh,Gwalior,"Deen Dayal Nagar, Gwalior - MPPCB",26.259242,78.216432,2026-08-23 10:00:00,55.0,4.0,39.0,37.0,61.0,26.0,11.0
+Madhya Pradesh,Gwalior,"Maharaj Bada, Gwalior - MPPCB",26.200388,78.147714,2026-08-23 10:00:00,41.0,3.0,20.0,3.0,16.0,11.0,10.0
+Madhya Pradesh,Indore,"Airport Area, Indore - IMC",22.7289,75.8076,2026-08-23 10:00:00,35.0,,,4.0,,,
+Madhya Pradesh,Indore,"Chhoti Gwaltoli, Indore - MPPCB",22.431,75.5213,2026-08-23 10:00:00,24.0,6.0,61.0,17.0,95.0,58.0,19.0
+Madhya Pradesh,Indore,"Maguda Nagar, Indore - IMC",22.7524,75.8872,2026-08-23 10:00:00,34.0,,4.0,10.0,30.0,25.0,14.0
+Madhya Pradesh,Indore,"Regional Park, Indore - IMC",22.678,75.8559,2026-08-23 10:00:00,27.0,2.0,6.0,5.0,27.0,23.0,38.0
+Madhya Pradesh,Indore,"Residency Area, Indore - IMC",22.7084,75.8815,2026-08-23 10:00:00,2.0,0.0,,6.0,47.0,34.0,2.0
+Madhya Pradesh,Jabalpur,"Govindh Bhavan Colony, Jabalpur - JMC",23.163174,79.973061,2026-08-23 10:00:00,40.0,10.0,20.0,13.0,41.0,31.0,7.0
+Madhya Pradesh,Jabalpur,"Gupteshwar, Jabalpur - JMC",23.142888,79.916147,2026-08-23 10:00:00,21.0,5.0,75.0,13.0,52.0,60.0,8.0
+Madhya Pradesh,Jabalpur,"Marhatal, Jabalpur - MPPCB",23.168606,79.932247,2026-08-23 10:00:00,9.0,5.0,43.0,13.0,66.0,53.0,11.0
+Madhya Pradesh,Jabalpur,"Suhagi, Jabalpur - JMC",23.218135,79.95777,2026-08-23 10:00:00,34.0,5.0,42.0,13.0,55.0,48.0,38.0
+Madhya Pradesh,Katni,"Gole Bazar, Katni - MPPCB",23.50016,80.23284,2026-08-23 10:00:00,25.0,3.0,13.0,16.0,47.0,29.0,25.0
+Madhya Pradesh,Maihar,"Sahilara, Maihar - KJS Cements",24.2613009,80.7231783,2026-08-23 10:00:00,28.0,,14.0,,13.0,,12.0
+Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",23.10844,77.511428,2026-08-23 10:00:00,19.0,3.0,38.0,23.0,84.0,67.0,5.0
+Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",22.624758,75.675238,2026-08-23 10:00:00,23.0,8.0,16.0,23.0,122.0,,31.0
+Madhya Pradesh,Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab",23.331731,75.045981,2026-08-23 10:00:00,,,44.0,,40.0,36.0,11.0
+Madhya Pradesh,Sagar,"Civil Lines, Sagar - MPPCB",23.838586,78.759431,2026-08-23 10:00:00,16.0,2.0,14.0,33.0,38.0,26.0,6.0
+Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - Birla Cement",24.58434363,80.8549414,2026-08-23 10:00:00,14.0,,13.0,14.0,70.0,50.0,
+Madhya Pradesh,Ujjain,"Mahashweta Nagar, Ujjain - MPPCB",23.1633321,75.800225,2026-08-23 10:00:00,28.0,9.0,10.0,36.0,53.0,42.0,2.0
+Maharashtra,Ahmednagar,"Tarakpur, Ahmednagar - MPCB",19.10122,74.73339,2026-08-23 10:00:00,7.0,,,13.0,27.0,12.0,
+Maharashtra,Akola,"Ramdaspeth, Akola - MPCB",20.719516,77.000253,2026-08-23 10:00:00,19.0,8.0,13.0,10.0,52.0,34.0,11.0
+Maharashtra,Ambernath,"Chinchpada, Ambernath - MPCB",19.215784,73.199781,2026-08-23 10:00:00,11.0,3.0,30.0,2.0,67.0,33.0,26.0
+Maharashtra,Amravati,"Shri Shivaji Science College, Amravati - MPCB",20.939198,77.765701,2026-08-23 10:00:00,23.0,2.0,5.0,6.0,31.0,19.0,5.0
+Maharashtra,Aurangabad,"MIDC Chilkalthana, Aurangabad - MPCB",19.87562,75.38731,2026-08-23 10:00:00,27.0,1.0,13.0,19.0,44.0,29.0,7.0
+Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",19.8389439,75.244448,2026-08-23 10:00:00,30.0,7.0,10.0,14.0,49.0,50.0,27.0
+Maharashtra,Aurangabad,"Rachnakar Colony, Aurangabad - MPCB",19.863756,75.321188,2026-08-23 10:00:00,24.0,1.0,14.0,10.0,38.0,30.0,5.0
+Maharashtra,Badlapur,"Katrap, Badlapur - MPCB",19.16485,73.23409,2026-08-23 10:00:00,40.0,16.0,16.0,2.0,15.0,13.0,10.0
+Maharashtra,Beed,"Bir, Beed - MPCB",18.988474,75.753873,2026-08-23 10:00:00,10.0,2.0,10.0,9.0,33.0,,7.0
+Maharashtra,Belapur,"CBD Belapur, Belapur - MPCB",19.0243902,73.0406721,2026-08-23 10:00:00,24.0,2.0,23.0,10.0,41.0,28.0,
+Maharashtra,Bhiwandi,"Gokul Nagar, Bhiwandi - MPCB",19.309073,73.057223,2026-08-23 10:00:00,25.0,8.0,6.0,27.0,30.0,31.0,3.0
+Maharashtra,Boisar,"Khaira, Boisar - MPCB",19.786089,72.757971,2026-08-23 10:00:00,22.0,5.0,22.0,31.0,45.0,33.0,4.0
+Maharashtra,Chandrapur,"Chauhan Colony, Chandrapur - MPCB",19.9629,79.298714,2026-08-23 10:00:00,25.0,1.0,13.0,9.0,33.0,27.0,10.0
+Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",19.9775302,79.2337086,2026-08-23 10:00:00,40.0,,,5.0,,,3.0
+Maharashtra,Dhule,"Deopur, Dhule - MPCB",20.918946,74.776388,2026-08-23 10:00:00,7.0,1.0,9.0,11.0,35.0,26.0,
+Maharashtra,Dombivli,"Kalu Nagar, Dombivli - MPCB",19.2268427,73.0788456,2026-08-23 10:00:00,14.0,1.0,12.0,26.0,13.0,6.0,28.0
+Maharashtra,Hingoli,"Ashta Vinayak Nagar, Hingoli - MPCB",19.710842,77.151824,2026-08-23 10:00:00,11.0,1.0,8.0,10.0,65.0,24.0,4.0
+Maharashtra,Jalgaon,"Prabhat Colony, Jalgaon - MPCB",21.001264,75.565602,2026-08-23 10:00:00,12.0,1.0,4.0,13.0,32.0,29.0,2.0
+Maharashtra,Jalna,"Old MIDC, Jalna - MPCB",19.854616,75.905894,2026-08-23 10:00:00,24.0,4.0,19.0,28.0,60.0,57.0,9.0
+Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",19.25292,73.142019,2026-08-23 10:00:00,,1.0,37.0,8.0,79.0,57.0,
+Maharashtra,Kalyan,"Pimpleshwar Mandir, Kalyan - MPCB",19.192056,72.9585188,2026-08-23 10:00:00,40.0,1.0,16.0,16.0,48.0,38.0,14.0
+Maharashtra,Kolhapur,"Shivaji University, Kolhapur - MPCB",16.6870449,74.2505872,2026-08-23 10:00:00,11.0,4.0,12.0,9.0,41.0,13.0,1.0
+Maharashtra,Kolhapur,"Sinchan Bhavan, Kolhapur - MPCB",16.7143745,74.2426398,2026-08-23 10:00:00,11.0,1.0,5.0,6.0,22.0,14.0,1.0
+Maharashtra,Latur,"Sawe Wadi, Latur - MPCB",18.39963,76.57452,2026-08-23 10:00:00,11.0,3.0,10.0,10.0,40.0,22.0,5.0
+Maharashtra,Mahad,"Kamble Tarf Birwadi, Mahad - MPCB",18.1023399,73.4783687,2026-08-23 10:00:00,34.0,3.0,13.0,7.0,43.0,29.0,12.0
+Maharashtra,Malegaon,"Mahesh Nagar, Malegaon - MPCB",20.555712,74.529236,2026-08-23 10:00:00,8.0,,17.0,21.0,65.0,48.0,1.0
+Maharashtra,Mira-Bhayandar,"Bhayandar West, Mira-Bhayandar - MPCB",19.296481,72.840923,2026-08-23 10:00:00,12.0,2.0,4.0,4.0,26.0,28.0,3.0
+Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM",19.053536,72.84643,2026-08-23 10:00:00,13.0,2.0,6.0,9.0,65.0,21.0,
+Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - MPCB",19.065931,72.862131,2026-08-23 10:00:00,21.0,7.0,6.0,8.0,49.0,34.0,3.0
+Maharashtra,Mumbai,"Borivali East, Mumbai - IITM",19.23241,72.86895,2026-08-23 10:00:00,33.0,2.0,13.0,21.0,41.0,35.0,
+Maharashtra,Mumbai,"Byculla, Mumbai - BMC",18.9767,72.838,2026-08-23 10:00:00,21.0,2.0,11.0,7.0,28.0,18.0,7.0
+Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",19.11074,72.86084,2026-08-23 10:00:00,13.0,1.0,5.0,9.0,36.0,20.0,12.0
+Maharashtra,Mumbai,"Chembur, Mumbai - MPCB",19.0364585,72.8954371,2026-08-23 10:00:00,37.0,16.0,10.0,,39.0,17.0,2.0
+Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",19.10078,72.87462,2026-08-23 10:00:00,,1.0,13.0,,30.0,26.0,7.0
+Maharashtra,Mumbai,"Deonar, Mumbai - IITM",19.04946,72.923,2026-08-23 10:00:00,12.0,6.0,8.0,7.0,45.0,19.0,3.0
+Maharashtra,Mumbai,"Ghatkopar, Mumbai - BMC",19.083694,72.920967,2026-08-23 10:00:00,20.0,4.0,5.0,5.0,42.0,31.0,5.0
+Maharashtra,Mumbai,"Kandivali West, Mumbai - BMC",19.215859,72.831718,2026-08-23 10:00:00,7.0,3.0,15.0,8.0,16.0,15.0,5.0
+Maharashtra,Mumbai,"Kherwadi_Bandra East, Mumbai - MPCB",19.0632143,72.8456324,2026-08-23 10:00:00,31.0,5.0,5.0,13.0,60.0,18.0,3.0
+Maharashtra,Mumbai,"Khindipada-Bhandup West, Mumbai - IITM",19.1653323,72.922099,2026-08-23 10:00:00,40.0,1.0,11.0,9.0,45.0,13.0,7.0
+Maharashtra,Mumbai,"Kurla, Mumbai - MPCB",19.0863,72.8888,2026-08-23 10:00:00,25.0,2.0,9.0,28.0,50.0,44.0,29.0
+Maharashtra,Mumbai,"Malad West, Mumbai - IITM",19.19709,72.82204,2026-08-23 10:00:00,29.0,2.0,11.0,8.0,33.0,14.0,11.0
+Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",18.96702,72.84214,2026-08-23 10:00:00,66.0,2.0,29.0,20.0,47.0,23.0,9.0
+Maharashtra,Mumbai,"Mindspace-Malad West, Mumbai - MPCB",19.1878657,72.8304069,2026-08-23 10:00:00,15.0,8.0,18.0,18.0,27.0,14.0,4.0
+Maharashtra,Mumbai,"Mulund West, Mumbai - MPCB",19.175,72.9419,2026-08-23 10:00:00,,4.0,13.0,,,12.0,
+Maharashtra,Mumbai,"Navy Nagar-Colaba, Mumbai - IITM",18.897756,72.81332,2026-08-23 10:00:00,15.0,3.0,41.0,23.0,67.0,30.0,10.0
+Maharashtra,Mumbai,"Sewri, Mumbai - BMC",19.000084,72.85673,2026-08-23 10:00:00,19.0,3.0,,8.0,41.0,24.0,
+Maharashtra,Mumbai,"Shivaji Nagar, Mumbai - BMC",19.060498,72.923356,2026-08-23 10:00:00,14.0,3.0,9.0,11.0,60.0,22.0,5.0
+Maharashtra,Mumbai,"Siddharth Nagar-Worli, Mumbai - IITM",19.000083,72.813993,2026-08-23 10:00:00,2.0,1.0,11.0,13.0,38.0,12.0,
+Maharashtra,Mumbai,"Sion, Mumbai - MPCB",19.047,72.8746,2026-08-23 10:00:00,20.0,1.0,58.0,,13.0,10.0,5.0
+Maharashtra,Mumbai,"Worli, Mumbai - MPCB",18.9936162,72.8128113,2026-08-23 10:00:00,38.0,1.0,5.0,8.0,63.0,,9.0
+Maharashtra,Nagpur,"Ambazari, Nagpur - MPCB",21.121801,79.04952,2026-08-23 10:00:00,15.0,2.0,11.0,6.0,43.0,40.0,10.0
+Maharashtra,Nagpur,"Mahal, Nagpur - MPCB",21.14472,79.107595,2026-08-23 10:00:00,18.0,2.0,9.0,5.0,55.0,42.0,10.0
+Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",21.152875,79.0517531,2026-08-23 10:00:00,27.0,5.0,16.0,6.0,30.0,37.0,5.0
+Maharashtra,Nagpur,"Ram Nagar, Nagpur - MPCB",21.143383,79.048912,2026-08-23 10:00:00,8.0,1.0,6.0,,41.0,43.0,3.0
+Maharashtra,Nanded,"Sneh Nagar, Nanded - MPCB",19.173852,77.296291,2026-08-23 10:00:00,22.0,2.0,8.0,16.0,37.0,31.0,
+Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",20.0073285,73.7762427,2026-08-23 10:00:00,27.0,3.0,5.0,19.0,23.0,17.0,6.0
+Maharashtra,Nashik,"Hirawadi, Nashik - MPCB",20.021503,73.813844,2026-08-23 10:00:00,35.0,3.0,7.0,12.0,23.0,14.0,12.0
+Maharashtra,Nashik,"MIDC Ambad, Nashik - MPCB",19.95022,73.73148,2026-08-23 10:00:00,21.0,3.0,5.0,7.0,23.0,19.0,2.0
+Maharashtra,Nashik,"Pandav Nagari, Nashik - MPCB",19.9591346,73.7788008,2026-08-23 10:00:00,14.0,2.0,4.0,7.0,15.0,12.0,6.0
+Maharashtra,Navi Mumbai,"Kopripada-Vashi, Navi Mumbai - MPCB",19.090337,73.014232,2026-08-23 10:00:00,25.0,7.0,8.0,2.0,39.0,19.0,1.0
+Maharashtra,Navi Mumbai,"Mahape, Navi Mumbai - MPCB",19.1135051,73.008978,2026-08-23 10:00:00,70.0,1.0,43.0,9.0,51.0,15.0,15.0
+Maharashtra,Navi Mumbai,"Nerul, Navi Mumbai - MPCB",19.008751,73.01662,2026-08-23 10:00:00,,1.0,5.0,,33.0,25.0,
+Maharashtra,Navi Mumbai,"Sanpada, Navi Mumbai - MPCB",19.0575752,73.0151367,2026-08-23 10:00:00,11.0,4.0,5.0,4.0,33.0,19.0,14.0
+Maharashtra,Navi Mumbai,"Sector-2E Kalamboli, Navi Mumbai - MPCB",19.02579,73.10297,2026-08-23 10:00:00,16.0,9.0,6.0,9.0,27.0,23.0,4.0
+Maharashtra,Navi Mumbai,"Tondare-Taloja, Navi Mumbai - MPCB",19.063,73.1209,2026-08-23 10:00:00,43.0,9.0,12.0,10.0,40.0,33.0,3.0
+Maharashtra,Parbhani,"Masoom Colony, Parbhani - MPCB",19.265594,76.761463,2026-08-23 10:00:00,12.0,0.0,5.0,22.0,28.0,19.0,
+Maharashtra,Pimpri-Chinchwad,"Bhosari, Pune - IITM",18.640051,73.848956,2026-08-23 10:00:00,32.0,,32.0,10.0,61.0,29.0,
+Maharashtra,Pimpri-Chinchwad,"Gavalinagar, Pimpri Chinchwad - MPCB",18.63673,73.82487,2026-08-23 10:00:00,12.0,2.0,17.0,2.0,27.0,29.0,1.0
+Maharashtra,Pimpri-Chinchwad,"Park Street Wakad, Pimpri Chinchwad - MPCB",18.59051,73.77946,2026-08-23 10:00:00,16.0,2.0,15.0,7.0,34.0,22.0,
+Maharashtra,Pimpri-Chinchwad,"Savta Mali Nagar, Pimpri-Chinchwad - IITM",18.614767,73.799516,2026-08-23 10:00:00,34.0,,23.0,7.0,51.0,22.0,
+Maharashtra,Pimpri-Chinchwad,"Thergaon, Pimpri Chinchwad - MPCB",18.616318,73.765797,2026-08-23 10:00:00,27.0,5.0,,6.0,46.0,9.0,1.0
+Maharashtra,Pimpri-Chinchwad,"Transport Nagar-Nigdi, Pune - IITM",18.664282,73.763966,2026-08-23 10:00:00,42.0,,45.0,12.0,52.0,25.0,
+Maharashtra,Pune,"Dhankawadi, Pune - IITM",18.459883,73.852193,2026-08-23 10:00:00,45.0,,15.0,6.0,43.0,23.0,
+Maharashtra,Pune,"Hadapsar, Pune - IITM",18.501793,73.927532,2026-08-23 10:00:00,29.0,,6.0,9.0,52.0,40.0,
+Maharashtra,Pune,"Katraj Dairy, Pune - MPCB",18.45445,73.854155,2026-08-23 10:00:00,27.0,1.0,10.0,10.0,30.0,17.0,3.0
+Maharashtra,Pune,"Mhada Colony, Pune - IITM",18.57304,73.927715,2026-08-23 10:00:00,2.0,,26.0,14.0,59.0,32.0,
+Maharashtra,Pune,"Panchawati_Pashan, Pune - IITM",18.536457,73.805454,2026-08-23 10:00:00,36.0,,9.0,1.0,42.0,27.0,
+Maharashtra,Pune,"Revenue Colony-Shivajinagar, Pune - IITM",18.530085,73.849598,2026-08-23 10:00:00,69.0,,20.0,4.0,59.0,27.0,12.0
+Maharashtra,Sangli,"Vijay Nagar, Sangli - MPCB",16.5038,74.3623,2026-08-23 10:00:00,18.0,1.0,4.0,8.0,26.0,25.0,5.0
+Maharashtra,Satara,"Koyana Nagar, Satara - MPCB",17.696651,74.003387,2026-08-23 10:00:00,20.0,2.0,8.0,14.0,71.0,37.0,5.0
+Maharashtra,Solapur,"Dnyaneshwar Nagar, Solapur - MPCB",17.6336264,75.9132495,2026-08-23 10:00:00,9.0,7.0,6.0,6.0,31.0,26.0,2.0
+Maharashtra,Solapur,"Ratandeep Housing Society, Solapur - MPCB",17.65439,75.90649,2026-08-23 10:00:00,16.0,5.0,14.0,10.0,33.0,33.0,0.0
+Maharashtra,Thane,"Kasarvadavali, Thane - MPCB",19.26777,72.97182,2026-08-23 10:00:00,30.0,0.0,12.0,8.0,42.0,32.0,7.0
+Maharashtra,Thane,"Upvan Fort, Thane - MPCB",19.222279,72.957979,2026-08-23 10:00:00,11.0,1.0,6.0,10.0,24.0,17.0,2.0
+Maharashtra,Ulhasnagar,"Sidhi Vinayak Nagar, Ulhasnagar - MPCB",19.235581,73.159121,2026-08-23 10:00:00,14.0,2.0,9.0,1.0,37.0,35.0,4.0
+Maharashtra,Ulhasnagar,"Vithalwadi, Ulhasnagar - MPCB",19.2307571,73.155192,2026-08-23 10:00:00,21.0,10.0,5.0,10.0,33.0,21.0,9.0
+Meghalaya,Byrnihat,"15th Mile-Nongthymmai, Byrnihat -Meghalaya PCB",26.079047,91.875185,2026-08-23 10:00:00,,1.0,2.0,,,,
+Meghalaya,Shillong,"JN Stadium, Shillong - Meghalaya PCB",25.5803419,91.8942571,2026-08-23 10:00:00,22.0,,5.0,58.0,,15.0,29.0
+Meghalaya,Shillong,"Lumpyngngad, Shillong - Meghalaya PCB",25.5586,91.8985,2026-08-23 10:00:00,9.0,0.0,0.0,17.0,,,11.0
+Mizoram,Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB",23.7176342,92.7192841,2026-08-23 10:00:00,3.0,0.0,1.0,1.0,,,14.0
+Nagaland,Kohima,"PWD Junction, Kohima - NPCB",25.6635413,94.0989878,2026-08-23 10:00:00,3.0,1.0,3.0,,17.0,19.0,66.0
+Odisha,Angul,"Hakimapada, Angul - OSPCB",20.832874,85.104082,2026-08-23 10:00:00,54.0,5.0,6.0,27.0,32.0,18.0,8.0
+Odisha,Balasore,"Kalidaspur, Balasore - OSPCB",21.51161,86.89088,2026-08-23 10:00:00,42.0,4.0,6.0,19.0,50.0,41.0,4.0
+Odisha,Barbil,"Forest Office, Barbil - OSPCB",22.1166054,85.3945546,2026-08-23 10:00:00,33.0,2.0,4.0,13.0,82.0,95.0,17.0
+Odisha,Baripada,"Meher Colony, Baripada - OSPCB",21.941841,86.728318,2026-08-23 10:00:00,14.0,3.0,9.0,36.0,69.0,58.0,7.0
+Odisha,Bhubaneswar,"Lingraj Mandir, Bhubaneswar - OSPCB",20.24079,85.836784,2026-08-23 10:00:00,39.0,3.0,16.0,16.0,49.0,47.0,8.0
+Odisha,Bhubaneswar,"Patia, Bhubaneswar - OSPCB",20.34652,85.8163,2026-08-23 10:00:00,34.0,5.0,11.0,13.0,42.0,33.0,9.0
+Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",21.8004996,83.8396977,2026-08-23 10:00:00,52.0,4.0,26.0,43.0,30.0,22.0,17.0
+Odisha,Byasanagar,"Ferro Chrome Colony, Byasanagar - OSPCB",20.94185,86.1151,2026-08-23 10:00:00,42.0,1.0,11.0,8.0,44.0,50.0,14.0
+Odisha,Cuttack,"CDA Area, Cuttack - OSPCB",20.48891,85.84768,2026-08-23 10:00:00,126.0,11.0,29.0,6.0,74.0,54.0,
+Odisha,Keonjhar,"Jagamohanpur, Keonjhar - OSPCB",21.6439,85.599355,2026-08-23 10:00:00,42.0,2.0,16.0,9.0,,32.0,19.0
+Odisha,Rairangpur,"Divisional Forest Office, Rairangpur - OSPCB",22.265816,86.174829,2026-08-23 10:00:00,17.0,3.0,6.0,2.0,49.0,26.0,12.0
+Odisha,Rourkela,"Fertilizer Township, Rourkela - OSPCB",22.18972222,84.86277778,2026-08-23 10:00:00,,,11.0,,,,11.0
+Odisha,Rourkela,"Raghunathpali, Rourkela - OSPCB",22.220833,84.809444,2026-08-23 10:00:00,45.0,1.0,13.0,3.0,72.0,68.0,3.0
+Odisha,Rourkela,"Sector-2, Rourkela - OSPCB",22.245,84.88111111,2026-08-23 10:00:00,13.0,,11.0,,32.0,11.0,
+Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",20.9360711,85.1707021,2026-08-23 10:00:00,22.0,7.0,83.0,17.0,,32.0,43.0
+Odisha,Tensa,"Barsua Iron Ore Mines, Tensa - OSPCB",21.869985,85.167016,2026-08-23 10:00:00,,,,,,19.0,27.0
+Puducherry,Puducherry,"Jawahar Nagar, Puducherry - PPCC",11.9309,79.8027,2026-08-23 10:00:00,17.0,3.0,10.0,22.0,40.0,25.0,7.0
+Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",30.233011,74.907758,2026-08-23 10:00:00,17.0,,30.0,,56.0,38.0,15.0
+Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",31.321907,75.578914,2026-08-23 10:00:00,83.0,3.0,43.0,22.0,74.0,86.0,12.0
+Punjab,Khanna,"Kalal Majra, Khanna - PPCB",30.736056,76.209694,2026-08-23 10:00:00,56.0,11.0,20.0,19.0,49.0,58.0,12.0
+Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",30.9028,75.8086,2026-08-23 10:00:00,17.0,4.0,30.0,55.0,71.0,87.0,12.0
+Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",30.649961,76.331442,2026-08-23 10:00:00,59.0,5.0,25.0,30.0,164.0,88.0,
+Punjab,Patiala,"Model Town, Patiala - PPCB",30.349388,76.366642,2026-08-23 10:00:00,39.0,6.0,14.0,16.0,58.0,26.0,13.0
+Punjab,Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements",31.0325454,76.5623046,2026-08-23 10:00:00,55.0,,26.0,,29.0,26.0,13.0
+Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",26.470859,74.646594,2026-08-23 10:00:00,23.0,6.0,18.0,43.0,89.0,63.0,10.0
+Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",27.554793,76.611536,2026-08-23 10:00:00,48.0,8.0,46.0,46.0,99.0,69.0,38.0
+Rajasthan,Alwar,"Vigyan Nagar, Alwar - RSPCB",27.598796,76.63861,2026-08-23 10:00:00,45.0,15.0,10.0,9.0,95.0,43.0,6.0
+Rajasthan,Banswara,"Rati Talai, Banswara - RSPCB",23.55519,74.44001,2026-08-23 10:00:00,19.0,3.0,32.0,30.0,74.0,28.0,8.0
+Rajasthan,Baran,"Bamboliya, Baran - RSPCB",25.106006,76.469948,2026-08-23 10:00:00,39.0,6.0,22.0,17.0,58.0,23.0,8.0
+Rajasthan,Barmer,"Railway Colony, Barmer - RSPCB",25.747299,71.393989,2026-08-23 10:00:00,15.0,2.0,6.0,21.0,60.0,20.0,2.0
+Rajasthan,Bharatpur,"Krishna Nagar, Bharatpur - RSPCB",27.215415,77.50873,2026-08-23 10:00:00,16.0,4.0,7.0,31.0,28.0,20.0,4.0
+Rajasthan,Bhilwara,"Pratap Nagar, Bhilwara - RSPCB",25.339605,74.618883,2026-08-23 10:00:00,32.0,4.0,19.0,18.0,86.0,45.0,8.0
+Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",28.194909,76.862296,2026-08-23 10:00:00,79.0,13.0,49.0,11.0,109.0,94.0,8.0
+Rajasthan,Bikaner,"MM Ground, Bikaner - RSPCB",28.018792,73.292658,2026-08-23 10:00:00,12.0,4.0,9.0,21.0,91.0,27.0,6.0
+Rajasthan,Bundi,"New Colony, Bundi - RSPCB",25.435774,75.644272,2026-08-23 10:00:00,13.0,,23.0,26.0,68.0,32.0,6.0
+Rajasthan,Chittorgarh,"Shastri Nagar, Chittorgarh - RSPCB",24.892047,74.623527,2026-08-23 10:00:00,7.0,11.0,15.0,28.0,98.0,82.0,7.0
+Rajasthan,Churu,"Subash Chowk, Churu - RSPCB",28.296139,74.961696,2026-08-23 10:00:00,23.0,4.0,5.0,29.0,86.0,24.0,4.0
+Rajasthan,Dausa,"Khatikan Mohalla, Dausa - RSPCB",26.895552,76.334753,2026-08-23 10:00:00,20.0,7.0,21.0,20.0,77.0,45.0,3.0
+Rajasthan,Dholpur,"Raja Ganj, Dholpur - RSPCB",26.699557,77.898881,2026-08-23 10:00:00,22.0,9.0,8.0,19.0,30.0,27.0,4.0
+Rajasthan,Dungarpur,"Bhoiwada, Dungarpur - RSPCB",23.837789,73.714926,2026-08-23 10:00:00,16.0,12.0,7.0,18.0,34.0,37.0,4.0
+Rajasthan,Hanumangarh,"Housing Board, Hanumangarh - RSPCB",29.61075,74.283608,2026-08-23 10:00:00,15.0,7.0,5.0,25.0,57.0,32.0,4.0
+Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",26.902909,75.836858,2026-08-23 10:00:00,28.0,5.0,18.0,23.0,83.0,49.0,22.0
+Rajasthan,Jaipur,"Mansarovar Sector-12, Jaipur - RSPCB",26.843698,75.766894,2026-08-23 10:00:00,17.0,2.0,15.0,37.0,93.0,31.0,1.0
+Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",26.9164092,75.7994901,2026-08-23 10:00:00,38.0,21.0,51.0,31.0,84.0,78.0,14.0
+Rajasthan,Jaipur,"RIICO Sitapura, Jaipur - RSPCB",26.786682,75.827928,2026-08-23 10:00:00,18.0,3.0,36.0,39.0,98.0,76.0,
+Rajasthan,Jaipur,"Sector-2 Murlipura, Jaipur - RSPCB",26.960669,75.771817,2026-08-23 10:00:00,43.0,6.0,19.0,8.0,81.0,45.0,
+Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",26.9502929,75.730943,2026-08-23 10:00:00,15.0,9.0,29.0,22.0,98.0,79.0,21.0
+Rajasthan,Jaisalmer,"Sadar Bazar, Jaisalmer - RSPCB",26.912329,70.909168,2026-08-23 10:00:00,20.0,10.0,19.0,23.0,77.0,28.0,3.0
+Rajasthan,Jalore,"Mudtra Sili, Jalore - RSPCB",25.344694,72.626208,2026-08-23 10:00:00,12.0,3.0,6.0,22.0,80.0,27.0,3.0
+Rajasthan,Jhalawar,"Rajlaxmi Nagar, Jhalawar - RSPCB",24.588397,76.172782,2026-08-23 10:00:00,44.0,4.0,28.0,27.0,61.0,63.0,9.0
+Rajasthan,Jhunjhunu,"Indra Nagar, Jhunjhunu - RSPCB",28.108988,75.386577,2026-08-23 10:00:00,29.0,5.0,8.0,27.0,77.0,36.0,4.0
+Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",26.268249,73.0193853,2026-08-23 10:00:00,12.0,5.0,24.0,14.0,66.0,39.0,8.0
+Rajasthan,Jodhpur,"Digari Kalan, Jodhpur - RSPCB",26.29581,73.082283,2026-08-23 10:00:00,12.0,5.0,16.0,20.0,95.0,19.0,8.0
+Rajasthan,Jodhpur,"Jhalamand, Jodhpur - RSPCB",26.215415,73.070156,2026-08-23 10:00:00,12.0,4.0,6.0,32.0,101.0,19.0,5.0
+Rajasthan,Jodhpur,"Mandor, Jodhpur - RSPCB",26.358805,73.047444,2026-08-23 10:00:00,12.0,3.0,6.0,37.0,98.0,22.0,
+Rajasthan,Jodhpur,"Samrat Ashok Udhyan, Jodhpur - RSPCB",26.253384,72.976571,2026-08-23 10:00:00,15.0,,5.0,11.0,79.0,23.0,2.0
+Rajasthan,Karauli,"Satyawati Vihar, Karauli - RSPCB",26.506177,77.025989,2026-08-23 10:00:00,10.0,9.0,44.0,10.0,43.0,24.0,9.0
+Rajasthan,Khairthal,"New Anaj Mandi, Khairthal - RSPCB",27.8015617,76.6365217,2026-08-23 10:00:00,65.0,3.0,30.0,32.0,112.0,74.0,1.0
+Rajasthan,Kota,"Dhanmandi, Kota - RSPCB",25.16409,75.858137,2026-08-23 10:00:00,12.0,3.0,16.0,30.0,64.0,27.0,9.0
+Rajasthan,Kota,"Nayapura, Kota - RSPCB",25.196024,75.855668,2026-08-23 10:00:00,17.0,6.0,16.0,29.0,75.0,50.0,5.0
+Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",25.14389,75.821256,2026-08-23 10:00:00,44.0,5.0,10.0,15.0,56.0,53.0,5.0
+Rajasthan,Nagaur,"Karni Colony, Nagaur - RSPCB",27.213494,73.734444,2026-08-23 10:00:00,14.0,4.0,7.0,19.0,100.0,29.0,4.0
+Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",25.771061,73.340227,2026-08-23 10:00:00,41.0,6.0,18.0,19.0,,109.0,9.0
+Rajasthan,Pratapgarh,"Pragati Nagar, Pratapgarh - RSPCB",24.041198,74.780702,2026-08-23 10:00:00,13.0,5.0,11.0,26.0,91.0,60.0,2.0
+Rajasthan,Rajsamand,"Dhoinda, Rajsamand - RSPCB",25.03636,73.883502,2026-08-23 10:00:00,7.0,8.0,10.0,34.0,80.0,45.0,4.0
+Rajasthan,Sawai Madhopur,"Sahu Nagar, Sawai Madhopur - RSPCB",26.031443,76.359327,2026-08-23 10:00:00,16.0,3.0,15.0,31.0,85.0,40.0,6.0
+Rajasthan,Sikar,"Radhakishan Pura, Sikar - RSPCB",27.608912,75.153302,2026-08-23 10:00:00,15.0,10.0,9.0,24.0,130.0,58.0,4.0
+Rajasthan,Sirohi,"Vedhaynath Colony, Sirohi - RSPCB",24.885261,72.857549,2026-08-23 10:00:00,8.0,2.0,7.0,25.0,74.0,29.0,5.0
+Rajasthan,Sri Ganganagar,"Old City, Sri Ganganagar - RSPCB",29.931624,73.864511,2026-08-23 10:00:00,23.0,7.0,24.0,14.0,99.0,19.0,5.0
+Rajasthan,Tonk,"Shastri Nagar, Tonk - RSPCB",26.159933,75.780517,2026-08-23 10:00:00,41.0,12.0,10.0,24.0,129.0,56.0,2.0
+Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",24.5886166,73.6321397,2026-08-23 10:00:00,18.0,3.0,41.0,21.0,90.0,85.0,1.0
+Sikkim,Gangtok,"Zero Point GICI, Gangtok - SSPCB",27.33853,88.614099,2026-08-23 10:00:00,2.0,1.0,8.0,1.0,,,1.0
+Tamil Nadu,Chennai,"Arumbakkam, Chennai - TNPCB",13.0664,80.2112,2026-08-23 10:00:00,,2.0,18.0,,82.0,34.0,2.0
+Tamil Nadu,Chennai,"Kodungaiyur, Chennai - TNPCB",13.1278,80.2642,2026-08-23 10:00:00,31.0,4.0,14.0,30.0,58.0,36.0,6.0
+Tamil Nadu,Chennai,"Manali Village, Chennai - TNPCB",13.1662,80.2584,2026-08-23 10:00:00,39.0,1.0,19.0,217.0,45.0,30.0,17.0
+Tamil Nadu,Chennai,"Manali, Chennai - CPCB",13.164544,80.26285,2026-08-23 10:00:00,33.0,6.0,11.0,9.0,69.0,28.0,6.0
+Tamil Nadu,Chennai,"Perungudi, Chennai - TNPCB",12.9533,80.2357,2026-08-23 10:00:00,35.0,0.0,7.0,1.0,115.0,10.0,4.0
+Tamil Nadu,Chennai,"Royapuram, Chennai - TNPCB",13.1036,80.2909,2026-08-23 10:00:00,48.0,4.0,13.0,28.0,62.0,46.0,6.0
+Tamil Nadu,Chennai,"Velachery Res. Area, Chennai - CPCB",13.0052189,80.2398125,2026-08-23 10:00:00,,4.0,12.0,9.0,98.0,54.0,4.0
+Tamil Nadu,Coimbatore,"SIDCO Kurichi, Coimbatore - TNPCB",10.942451,76.978996,2026-08-23 10:00:00,31.0,1.0,22.0,20.0,13.0,,27.0
+Tamil Nadu,Cuddalore,"Kudikadu, Cuddalore - TNPCB",11.6829898,79.7532099,2026-08-23 10:00:00,,,,10.0,,26.0,23.0
+Tamil Nadu,Cuddalore,"Semmandalam, Cuddalore - TNPCB",11.7637683,79.7499835,2026-08-23 10:00:00,,,,2.0,,,
+Tamil Nadu,Gummidipoondi,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",13.4127,80.1081,2026-08-23 10:00:00,,1.0,20.0,,102.0,82.0,21.0
+Tamil Nadu,Thoothukudi,"Meelavittan, Thoothukudi - TNPCB",8.816428,78.099039,2026-08-23 10:00:00,39.0,,15.0,30.0,65.0,,11.0
+Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",17.460103,78.334361,2026-08-23 10:00:00,20.0,3.0,17.0,11.0,14.0,16.0,6.0
+Telangana,Hyderabad,"ECIL Kapra, Hyderabad - TSPCB",17.470431,78.566959,2026-08-23 10:00:00,22.0,2.0,9.0,15.0,49.0,42.0,9.0
+Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",17.5184,78.278777,2026-08-23 10:00:00,11.0,2.0,14.0,10.0,47.0,16.0,11.0
+Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",17.5316895,78.218939,2026-08-23 10:00:00,25.0,1.0,21.0,41.0,52.0,31.0,10.0
+Telangana,Hyderabad,"IITH Kandi, Hyderabad - TSPCB",17.585705,78.126199,2026-08-23 10:00:00,22.0,3.0,14.0,14.0,56.0,44.0,9.0
+Telangana,Hyderabad,"Kokapet, Hyderabad - TSPCB",17.393559,78.339194,2026-08-23 10:00:00,18.0,3.0,13.0,14.0,52.0,37.0,8.0
+Telangana,Hyderabad,"Kompally Municipal Office, Hyderabad - TSPCB",17.544899,78.486949,2026-08-23 10:00:00,16.0,3.0,15.0,8.0,57.0,33.0,5.0
+Telangana,Hyderabad,"New Malakpet, Hyderabad - TSPCB",17.37206,78.50864,2026-08-23 10:00:00,19.0,3.0,14.0,16.0,53.0,37.0,9.0
+Telangana,Hyderabad,"Ramachandrapuram, Hyderabad - TSPCB",17.528544,78.286195,2026-08-23 10:00:00,21.0,3.0,13.0,21.0,59.0,36.0,12.0
+Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",17.4559458,78.4332152,2026-08-23 10:00:00,35.0,,52.0,65.0,,43.0,8.0
+Telangana,Hyderabad,"Somajiguda, Hyderabad - TSPCB",17.417094,78.457437,2026-08-23 10:00:00,10.0,3.0,18.0,18.0,54.0,48.0,8.0
+Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",17.349694,78.451437,2026-08-23 10:00:00,40.0,2.0,8.0,4.0,33.0,31.0,2.0
+Tripura,Agartala,"Bardowali, Agartala - Tripura SPCB",23.8175497,91.2726974,2026-08-23 10:00:00,23.0,,13.0,3.0,54.0,35.0,13.0
+Uttar Pradesh,Agra,"Manoharpur, Agra - UPPCB",27.23711,78.01936,2026-08-23 10:00:00,20.0,2.0,31.0,6.0,71.0,96.0,64.0
+Uttar Pradesh,Agra,"Rohta, Agra - UPPCB",27.106972,78.000111,2026-08-23 10:00:00,25.0,6.0,16.0,15.0,66.0,29.0,15.0
+Uttar Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",27.19865833,78.00598056,2026-08-23 10:00:00,38.0,,8.0,4.0,66.0,60.0,7.0
+Uttar Pradesh,Agra,"Sector-3B Avas Vikas Colony, Agra - UPPCB",27.19412,77.96237,2026-08-23 10:00:00,7.0,7.0,35.0,13.0,62.0,44.0,26.0
+Uttar Pradesh,Agra,"Shahjahan Garden, Agra - UPPCB",27.169338,78.03582,2026-08-23 10:00:00,22.0,1.0,26.0,1.0,38.0,26.0,76.0
+Uttar Pradesh,Agra,"Shastripuram, Agra - UPPCB",27.19862,77.92066,2026-08-23 10:00:00,16.0,3.0,54.0,3.0,,38.0,56.0
+Uttar Pradesh,Baghpat,"Sardar Patel Inter College, Baghpat - UPPCB",28.964949,77.278761,2026-08-23 10:00:00,9.0,2.0,17.0,33.0,72.0,33.0,8.0
+Uttar Pradesh,Baraut,"Nagar Palika Parishad, Baraut - UPPCB",29.09956,77.26235,2026-08-23 10:00:00,5.0,,16.0,3.0,86.0,112.0,2.0
+Uttar Pradesh,Bareilly,"Civil Lines, Bareilly - UPPCB",28.359581,79.414455,2026-08-23 10:00:00,30.0,0.0,8.0,,30.0,34.0,37.0
+Uttar Pradesh,Bareilly,"Rajendra Nagar, Bareilly - UPPCB",28.38910936,79.42963708,2026-08-23 10:00:00,24.0,1.0,9.0,,46.0,42.0,4.0
+Uttar Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",28.406963,77.849831,2026-08-23 10:00:00,29.0,9.0,11.0,31.0,76.0,30.0,7.0
+Uttar Pradesh,Fatehpur Sikri,"Dadupura, Fatehpur Sikri - UPPCB",27.097694,77.671335,2026-08-23 10:00:00,11.0,2.0,8.0,10.0,67.0,55.0,11.0
+Uttar Pradesh,Firozabad,"Nagla Bhau, Firozabad - UPPCB",27.168897,78.37696,2026-08-23 10:00:00,37.0,2.0,17.0,15.0,,,34.0
+Uttar Pradesh,Firozabad,"Vibhab Nagar, Firozabad - UPPCB",27.1594,78.3953,2026-08-23 10:00:00,25.0,7.0,15.0,1.0,,,5.0
+Uttar Pradesh,Gajraula,"Rajanpur, Gajraula - UPPCB",28.829109,78.248796,2026-08-23 10:00:00,58.0,2.0,7.0,4.0,52.0,43.0,11.0
+Uttar Pradesh,Ghaziabad,"Govindpuram, Ghaziabad - UPPCB",28.694528,77.494705,2026-08-23 10:00:00,27.0,2.0,44.0,18.0,32.0,33.0,1.0
+Uttar Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",28.646233,77.358075,2026-08-23 10:00:00,17.0,6.0,24.0,24.0,58.0,53.0,11.0
+Uttar Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB",28.757294,77.278792,2026-08-23 10:00:00,38.0,4.0,38.0,20.0,130.0,84.0,15.0
+Uttar Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",28.685382,77.453839,2026-08-23 10:00:00,33.0,9.0,28.0,25.0,31.0,30.0,11.0
+Uttar Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",28.6603346,77.3572563,2026-08-23 10:00:00,37.0,7.0,31.0,37.0,114.0,56.0,
+Uttar Pradesh,Ghaziabad,"Ved Vihar-Loni, Ghaziabad - UPPCB",28.739153,77.273668,2026-08-23 10:00:00,87.0,9.0,25.0,7.0,86.0,79.0,7.0
+Uttar Pradesh,Ghaziabad,"Wave City, Ghaziabad - UPPCB",28.646675,77.489049,2026-08-23 10:00:00,47.0,,17.0,7.0,,,3.0
+Uttar Pradesh,Gorakhpur,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",26.730136,83.433859,2026-08-23 10:00:00,6.0,1.0,11.0,40.0,60.0,86.0,48.0
+Uttar Pradesh,Greater Noida,"Knowledge Park - III, Greater Noida - UPPCB",28.47272,77.482,2026-08-23 10:00:00,45.0,8.0,24.0,32.0,63.0,45.0,8.0
+Uttar Pradesh,Greater Noida,"Knowledge Park - V, Greater Noida - UPPCB",28.557054,77.453663,2026-08-23 10:00:00,14.0,5.0,25.0,17.0,134.0,48.0,8.0
+Uttar Pradesh,Jhansi,"Shivaji Nagar, Jhansi - UPPCB",25.4547,78.6039,2026-08-23 10:00:00,10.0,4.0,6.0,6.0,56.0,,24.0
+Uttar Pradesh,Kanpur,"FTI Kidwai Nagar, Kanpur - UPPCB",26.428282,80.327067,2026-08-23 10:00:00,33.0,3.0,26.0,11.0,56.0,51.0,
+Uttar Pradesh,Kanpur,"NSI Kalyanpur, Kanpur - UPPCB",26.509954,80.249612,2026-08-23 10:00:00,15.0,2.0,31.0,21.0,50.0,36.0,24.0
+Uttar Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",26.4703136,80.3229863,2026-08-23 10:00:00,50.0,,47.0,8.0,24.0,27.0,11.0
+Uttar Pradesh,Khora,"Prashant Garden, Khora - UPPCB",28.61119,77.34206,2026-08-23 10:00:00,43.0,5.0,19.0,6.0,83.0,93.0,4.0
+Uttar Pradesh,Khurja,"Kalindi Kunj, Khurja - UPPCB",28.2348927,77.8683002,2026-08-23 10:00:00,48.0,1.0,12.0,11.0,72.0,33.0,10.0
+Uttar Pradesh,Lucknow,"B R Ambedkar University, Lucknow - UPPCB",26.766433,80.927299,2026-08-23 10:00:00,24.0,3.0,12.0,35.0,121.0,74.0,37.0
+Uttar Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB",26.86812,81.005119,2026-08-23 10:00:00,39.0,,9.0,41.0,27.0,27.0,11.0
+Uttar Pradesh,Lucknow,"Kendriya Vidyalaya, Lucknow - CPCB",26.906111,80.948222,2026-08-23 10:00:00,38.0,12.0,22.0,27.0,43.0,34.0,7.0
+Uttar Pradesh,Lucknow,"Kukrail Picnic Spot-1, Lucknow - UPPCB",26.90723,80.98579,2026-08-23 10:00:00,15.0,6.0,32.0,10.0,36.0,30.0,32.0
+Uttar Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",26.8458805,80.9365541,2026-08-23 10:00:00,32.0,12.0,20.0,19.0,33.0,26.0,5.0
+Uttar Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",26.83399722,80.8917361,2026-08-23 10:00:00,8.0,12.0,17.0,14.0,33.0,29.0,17.0
+Uttar Pradesh,Mathura,"Pali Dungra, Mathura - UPPCB",27.410954,77.550619,2026-08-23 10:00:00,22.0,1.0,5.0,7.0,53.0,20.0,8.0
+Uttar Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB",28.999264,77.7590354,2026-08-23 10:00:00,40.0,6.0,31.0,45.0,41.0,33.0,26.0
+Uttar Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB",28.9535882,77.7622941,2026-08-23 10:00:00,14.0,11.0,14.0,36.0,26.0,20.0,10.0
+Uttar Pradesh,Meerut,"MIET College, Meerut - UPPCB",28.972677,77.641018,2026-08-23 10:00:00,51.0,6.0,43.0,16.0,,,2.0
+Uttar Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB",29.06351,77.709723,2026-08-23 10:00:00,25.0,7.0,27.0,21.0,48.0,49.0,13.0
+Uttar Pradesh,Modinagar,"SRM University, Modinagar - UPPCB",28.798171,77.540243,2026-08-23 10:00:00,17.0,3.0,17.0,8.0,67.0,52.0,13.0
+Uttar Pradesh,Moradabad,"Buddhi Vihar, Moradabad - UPPCB",28.83526,78.7446,2026-08-23 10:00:00,28.0,5.0,29.0,21.0,39.0,23.0,34.0
+Uttar Pradesh,Moradabad,"Eco Herbal Park, Moradabad - UPPCB",28.840739,78.697531,2026-08-23 10:00:00,18.0,7.0,20.0,19.0,32.0,30.0,20.0
+Uttar Pradesh,Moradabad,"Employment Office, Moradabad - UPPCB",28.88528,78.7388,2026-08-23 10:00:00,12.0,3.0,23.0,30.0,40.0,50.0,32.0
+Uttar Pradesh,Moradabad,"Jigar Colony, Moradabad - UPPCB",28.856664,78.772638,2026-08-23 10:00:00,40.0,6.0,25.0,22.0,43.0,32.0,50.0
+Uttar Pradesh,Moradabad,"Kashiram Nagar, Moradabad - UPPCB",28.849399,78.742362,2026-08-23 10:00:00,38.0,4.0,25.0,16.0,,47.0,46.0
+Uttar Pradesh,Moradabad,"Transport Nagar, Moradabad - UPPCB",28.802625,78.753728,2026-08-23 10:00:00,44.0,5.0,24.0,62.0,58.0,,20.0
+Uttar Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",29.4723508,77.7194031,2026-08-23 10:00:00,40.0,3.0,33.0,38.0,67.0,63.0,16.0
+Uttar Pradesh,Noida,"Sector - 125, Noida - UPPCB",28.5447608,77.3231257,2026-08-23 10:00:00,8.0,11.0,31.0,21.0,146.0,88.0,8.0
+Uttar Pradesh,Noida,"Sector - 62, Noida - IITM",28.6245479,77.3577104,2026-08-23 10:00:00,18.0,,29.0,30.0,86.0,63.0,
+Uttar Pradesh,Noida,"Sector-1, Noida - UPPCB",28.5898,77.3101,2026-08-23 10:00:00,34.0,11.0,24.0,23.0,99.0,46.0,9.0
+Uttar Pradesh,Noida,"Sector-116, Noida - UPPCB",28.56923,77.393848,2026-08-23 10:00:00,39.0,13.0,21.0,48.0,124.0,107.0,11.0
+Uttar Pradesh,Prayagraj,"Jhunsi, Prayagraj - UPPCB",25.425602,81.917152,2026-08-23 10:00:00,25.0,6.0,6.0,29.0,59.0,16.0,61.0
+Uttar Pradesh,Prayagraj,"Motilal Nehru NIT, Prayagraj - UPPCB",25.494,81.863,2026-08-23 10:00:00,4.0,8.0,12.0,13.0,42.0,17.0,20.0
+Uttar Pradesh,Prayagraj,"Nagar Nigam, Prayagraj - UPPCB",25.44919916,81.82735986,2026-08-23 10:00:00,19.0,7.0,5.0,13.0,46.0,12.0,73.0
+Uttar Pradesh,Raebareli," Indira Nagar, Raebareli - NTPC Unchahar",26.207781,81.245571,2026-08-23 10:00:00,52.0,,,2.0,66.0,44.0,
+Uttar Pradesh,Shamli,"New Tehsil, Shamli - UPPCB",29.4603683,77.3410291,2026-08-23 10:00:00,70.0,1.0,10.0,17.0,43.0,31.0,3.0
+Uttar Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",25.3505986,82.9083074,2026-08-23 10:00:00,14.0,,22.0,14.0,57.0,42.0,5.0
+Uttar Pradesh,Varanasi,"Bhelupur, Varanasi - UPPCB",25.301778,82.996789,2026-08-23 10:00:00,10.0,1.0,8.0,8.0,76.0,67.0,23.0
+Uttar Pradesh,Varanasi,"IESD Banaras Hindu University, Varanasi - UPPCB",25.262326,82.995408,2026-08-23 10:00:00,3.0,0.0,2.0,25.0,45.0,,28.0
+Uttar Pradesh,Varanasi,"Maldahiya, Varanasi - UPPCB",25.32393,82.99687,2026-08-23 10:00:00,15.0,,,4.0,,,
+Uttar Pradesh,Vrindavan,"Omex Eternity, Vrindavan - UPPCB",27.571409,77.655757,2026-08-23 10:00:00,4.0,8.0,27.0,16.0,,,27.0
+Uttarakhand,Dehradun,"Doon University, Dehradun - UKPCB",30.269444,78.044167,2026-08-23 10:00:00,11.0,,2.0,17.0,49.0,52.0,1.0
+Uttarakhand,Kashipur,"Govt. Girls Inter College, Kashipur - UKPCB",29.2124114,78.9611753,2026-08-23 10:00:00,13.0,,,,,,
+Uttarakhand,Rishikesh,"Shivaji Nagar, Rishikesh - UKPCB",30.075911,78.2859547,2026-08-23 10:00:00,37.0,8.0,7.0,15.0,9.0,2.0,1.0
+West Bengal,Asansol,"Asansol Court Area, Asansol - WBPCB",23.685297,86.945968,2026-08-23 10:00:00,46.0,5.0,36.0,14.0,53.0,51.0,13.0
+West Bengal,Asansol,"Evelyn Lodge, Asansol - WBPCB",23.697936,86.944395,2026-08-23 10:00:00,43.0,7.0,16.0,5.0,63.0,41.0,77.0
+West Bengal,Asansol,"Mahabir Colliery, Asansol - WBPCB",23.618183,87.105718,2026-08-23 10:00:00,33.0,0.0,2.0,8.0,52.0,53.0,3.0
+West Bengal,Asansol,"Trivenidevi Bhalotia College, Asansol - WBPCB",23.616515,87.119133,2026-08-23 10:00:00,64.0,6.0,8.0,7.0,34.0,38.0,44.0
+West Bengal,Barrackpore,"SVSPA Campus, Barrackpore - WBPCB",22.7605581,88.3617589,2026-08-23 10:00:00,47.0,7.0,11.0,5.0,45.0,35.0,12.0
+West Bengal,Durgapur,"Mahishkapur Road_B-Zone, Durgapur - WBPCB",23.567923,87.306843,2026-08-23 10:00:00,35.0,0.0,7.0,13.0,63.0,37.0,2.0
+West Bengal,Durgapur,"PCBL Residential Complex, Durgapur - WBPCB",23.508764,87.35444,2026-08-23 10:00:00,44.0,4.0,84.0,,48.0,43.0,12.0
+West Bengal,Durgapur,"Womens College_City Center, Durgapur - WBPCB",23.549395,87.300496,2026-08-23 10:00:00,27.0,3.0,23.0,8.0,111.0,49.0,12.0
+West Bengal,Haldia,"Priyambada Housing Estate, Haldia - WBPCB",22.06047,88.109737,2026-08-23 10:00:00,25.0,12.0,12.0,27.0,51.0,23.0,12.0
+West Bengal,Howrah,"Belur Math, Howrah - WBPCB",22.629801,88.352017,2026-08-23 10:00:00,11.0,4.0,17.0,9.0,49.0,33.0,9.0
+West Bengal,Howrah,"Botanical Garden, Howrah - WBPCB",22.554954,88.292568,2026-08-23 10:00:00,6.0,0.0,21.0,14.0,52.0,39.0,2.0
+West Bengal,Howrah,"Dasnagar, Howrah - WBPCB",22.6025571,88.3105664,2026-08-23 10:00:00,35.0,1.0,4.0,14.0,51.0,54.0,8.0
+West Bengal,Howrah,"Ghusuri, Howrah - WBPCB",22.611968,88.347422,2026-08-23 10:00:00,22.0,2.0,49.0,21.0,66.0,38.0,8.0
+West Bengal,Howrah,"Padmapukur, Howrah - WBPCB",22.5687319,88.2797276,2026-08-23 10:00:00,54.0,10.0,12.0,13.0,67.0,25.0,5.0
+West Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",22.5367507,88.3638022,2026-08-23 10:00:00,13.0,8.0,21.0,16.0,46.0,30.0,7.0
+West Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",22.58157048,88.41002457,2026-08-23 10:00:00,40.0,5.0,13.0,10.0,44.0,25.0,8.0
+West Bengal,Kolkata,"Fort William, Kolkata - WBPCB",22.55664,88.342674,2026-08-23 10:00:00,14.0,7.0,18.0,36.0,38.0,36.0,5.0
+West Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",22.49929,88.36917,2026-08-23 10:00:00,20.0,12.0,38.0,13.0,53.0,49.0,5.0
+West Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",22.627847,88.380669,2026-08-23 10:00:00,28.0,7.0,22.0,14.0,38.0,45.0,8.0
+West Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",22.51106,88.35142,2026-08-23 10:00:00,17.0,6.0,10.0,11.0,29.0,26.0,7.0
+West Bengal,Kolkata,"Victoria, Kolkata - WBPCB",22.5448082,88.3403691,2026-08-23 10:00:00,31.0,6.0,30.0,34.0,92.0,42.0,5.0
+West Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",26.6879226,88.4152495,2026-08-23 10:00:00,23.0,15.0,120.0,17.0,35.0,22.0,13.0
