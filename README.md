@@ -1,81 +1,114 @@
 # 🇮🇳 Indian Air Quality Analysis
 
-A statistical and machine-learning analysis of air pollution patterns across Indian urban monitoring locations using public CPCB real-time air-quality data.
+A data-driven analysis of air pollution patterns across Indian urban locations using public real-time air-quality data from the Central Pollution Control Board (CPCB).
 
-## 🎯 Research Questions
+## 🎯 Research Question
 
-This project investigates:
-
-- How do pollutant concentrations vary across Indian urban monitoring locations?
-- What statistical relationships exist between fine particulate matter (PM₂.₅) and other pollutants?
-- Which pollutants are most strongly associated with PM₂.₅?
-- Can pollutant measurements be used to model PM₂.₅ concentration?
+How do air-pollution patterns vary across Indian urban locations, and which pollutants show the strongest statistical relationships with fine particulate pollution (PM2.5)?
 
 ## 📊 Dataset
 
-The analysis uses real-time air-quality snapshot data published by the Central Pollution Control Board (CPCB) through the Government of India's Open Government Data (OGD) platform.
+The project uses real-time air-quality snapshot data published by the Central Pollution Control Board (CPCB) through the Government of India's Open Government Data (OGD) platform.
 
-The dataset contains measurements from:
+The dataset contains measurements for:
 
-- **498 monitoring stations**
-- **263 cities**
-- **31 states**
-- **7 pollutants:** PM₂.₅, PM₁₀, NO₂, SO₂, CO, O₃, and NH₃
+- PM2.5
+- PM10
+- NO2
+- SO2
+- CO
+- OZONE
+- NH3
 
-The raw station-level observations were cleaned, reshaped, and aggregated for statistical analysis and machine-learning experiments.
+The raw dataset covers 498 monitoring stations across 31 states and 263 cities.
+
+The data was reshaped into a station-level format and cleaned before analysis.
 
 ## 🔬 Analysis Performed
 
-### Data Preparation
-- Data ingestion and inspection
-- Missing-value and error profiling
-- Timestamp handling
-- Station-level reshaping
-- Pollutant-wise descriptive statistics
-- Distribution and skewness analysis
+### 1. Data Profiling & Cleaning
+- Inspected dataset structure and data types
+- Reshaped pollutant measurements into a station-level table
+- Handled missing values
+- Processed timestamp information
+- Generated summary statistics and distribution checks
 
-### Statistical Analysis
-- Pearson correlation analysis
-- PM₂.₅ / PM₁₀ ratio analysis
-- Pollutant relationship analysis
-- Regional comparison
-- ANOVA testing
-- Kruskal-Wallis testing
+### 2. Pollutant Analysis
+- Calculated pollutant summary statistics
+- Examined Pearson correlations between pollutants
+- Analyzed the PM2.5/PM10 ratio
+- Identified cities and stations with higher average PM2.5 concentrations
 
-### Machine Learning
+### 3. Regional Statistical Analysis
+- Compared PM2.5 concentrations across the selected regions represented in the dataset
+- Performed One-Way ANOVA
+- Performed the Kruskal-Wallis test
 
-A **Random Forest Regressor** was used to model PM₂.₅ concentration from available pollutant measurements.
+Both statistical tests indicated statistically significant differences in PM2.5 concentrations across the tested regions.
 
-**Model evaluation:**
+### 4. Machine Learning
 
-| Metric | Result |
+A Random Forest Regressor was developed to predict PM2.5 using:
+
+- CO
+- NH3
+- NO2
+- OZONE
+- PM10
+- SO2
+
+Model configuration:
+
+- 100 decision trees
+- 80/20 train-test split
+- Random state: 42
+
+Model performance on the test set:
+
+- **RMSE:** 26.81 µg/m³
+- **R²:** 0.3761
+
+Feature importance from the model:
+
+| Feature | Importance |
 |---|---:|
-| RMSE | 26.81 µg/m³ |
-| R² | 0.3761 |
+| PM10 | 59.36% |
+| CO | 11.08% |
+| SO2 | 9.00% |
+| NO2 | 7.95% |
+| OZONE | 7.84% |
+| NH3 | 4.77% |
 
-The model achieved an R² of approximately 0.38, indicating that the selected features explain a meaningful but limited portion of the variation in PM₂.₅ concentration.
+Feature importance indicates how much the model relied on each feature for prediction; it does not imply a causal relationship between pollutants.
 
-### Feature Importance
+## 📈 Key Findings
 
-PM₁₀ was the most influential feature in the Random Forest model, accounting for approximately **59.36%** of the model's feature-importance score.
+- PM2.5 showed its strongest observed linear correlations with NO2 and CO, both with correlation coefficients of approximately **0.21**.
+- OZONE showed a weak observed linear correlation with PM2.5 (**r ≈ 0.05**).
+- The average observed PM2.5/PM10 ratio in the analyzed data was approximately **72.6%**.
+- Several stations and cities in northern India recorded relatively high average PM2.5 concentrations.
+- Statistical testing found significant differences in PM2.5 concentrations across the selected regions.
+- In the Random Forest model, PM10 was the most important predictor of PM2.5.
 
-Feature importance indicates the contribution of a feature to the model's predictive decisions; it should not be interpreted as a causal relationship.
+## 🛠️ Technologies Used
 
-## 📌 Preliminary Findings
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Seaborn**
+- **SciPy**
+- **Scikit-Learn**
+- **Google Colab / Jupyter Notebook**
+- **Git & GitHub**
 
-- PM₂.₅ showed its strongest linear correlations with **NO₂ (r = 0.21)** and **CO (r = 0.21)** among the analyzed pollutants.
-- O₃ showed a comparatively weak linear correlation with PM₂.₅ (**r = 0.05**).
-- Several monitoring locations in the Indo-Gangetic region and National Capital Region showed high average PM₂.₅ concentrations.
-- The average PM₂.₅ / PM₁₀ ratio in the analyzed data was approximately **72.6%**.
-
-These findings describe statistical associations in the analyzed dataset and should not be interpreted as proof of specific pollution sources or causal mechanisms.
-
-## 🗂️ Project Structure
+## 📁 Project Structure
 
 ```text
 indian-air-quality-analysis/
+├── data/
+│   └── cpcb_realtime_aqi_clean.csv
+├── notebooks/
+│   └── 01_air_quality_analysis.ipynb
 ├── README.md
-├── requirements.txt
-├── cpcb_realtime_aqi_clean.csv
-└── notebooks/
-    └── 01_data_profiling.ipynb
+└── requirements.txt
