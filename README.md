@@ -1,38 +1,81 @@
 # 🇮🇳 Indian Air Quality Analysis
 
-A statistical and data-driven analysis of air pollution patterns across Indian urban locations using public CPCB real-time air-quality data.
+A statistical and machine-learning analysis of air pollution patterns across Indian urban monitoring locations using public CPCB real-time air-quality data.
 
-## 🎯 Research Question
+## 🎯 Research Questions
 
-How do air-pollution patterns vary across Indian urban locations, and which gaseous pollutants show the strongest statistical relationships with fine particulate pollution ($\text{PM}_{2.5}$)?
+This project investigates:
 
-## 🔬 Key Preliminary Findings
+- How do pollutant concentrations vary across Indian urban monitoring locations?
+- What statistical relationships exist between fine particulate matter (PM₂.₅) and other pollutants?
+- Which pollutants are most strongly associated with PM₂.₅?
+- Can pollutant measurements be used to model PM₂.₅ concentration?
 
-- **High Fine Particulate Proportion:** Fine particulate matter ($\text{PM}_{2.5}$) accounts for an average of **72.6%** of overall coarse particulate matter ($\text{PM}_{10}$) nationwide. This indicates that urban pollution in India is heavily dominated by combustion sources (vehicular emissions, industrial activity, biomass burning) rather than coarse soil dust alone.
-- **Pollutant Correlations:** $\text{PM}_{2.5}$ exhibits its strongest linear correlation with nitrogen dioxide ($\text{NO}_2$, $r = 0.21$) and carbon monoxide ($\text{CO}$, $r = 0.21$). Ground-level ozone ($\text{O}_3$) shows near-zero linear correlation ($r = 0.05$).
-- **Geographic Hotspots:** Stations across the Indo-Gangetic Belt and National Capital Region (e.g., Faridabad, Bhagalpur, Manesar, Panipat) record the highest average concentrations of fine particulate matter.
+## 📊 Dataset
 
-## 📊 Data Source
+The analysis uses real-time air-quality snapshot data published by the Central Pollution Control Board (CPCB) through the Government of India's Open Government Data (OGD) platform.
 
-This project utilizes real-time air quality snapshot data published by the Central Pollution Control Board (CPCB) via the Government of India's Open Government Data (OGD) platform, covering 498 active monitoring stations nationwide across 7 primary pollutants ($\text{PM}_{2.5}$, $\text{PM}_{10}$, $\text{NO}_2$, $\text{SO}_2$, $\text{CO}$, $\text{O}_3$, and $\text{NH}_3$).
+The dataset contains measurements from:
 
-## 🛠️ Technologies Used
+- **498 monitoring stations**
+- **263 cities**
+- **31 states**
+- **7 pollutants:** PM₂.₅, PM₁₀, NO₂, SO₂, CO, O₃, and NH₃
 
-- **Data Wrangling:** Python, Pandas, NumPy
-- **Data Visualization:** Matplotlib, Seaborn
-- **Development Environment:** Google Colab / Jupyter Notebook
-- **Version Control:** Git, GitHub
+The raw station-level observations were cleaned, reshaped, and aggregated for statistical analysis and machine-learning experiments.
 
-## 🚧 Project Status
+## 🔬 Analysis Performed
 
-**Active Analysis & Modeling Phase**
+### Data Preparation
+- Data ingestion and inspection
+- Missing-value and error profiling
+- Timestamp handling
+- Station-level reshaping
+- Pollutant-wise descriptive statistics
+- Distribution and skewness analysis
 
-- [x] Data ingestion, pivoting, and station-level schema reshaping
-- [x] Summary statistics, skewness check, and error profiling
-- [x] Pearson correlation matrix & $\text{PM}_{2.5}/\text{PM}_{10}$ ratio analysis
-- [ ] Regional hypothesis testing (ANOVA / Kruskal-Wallis)
-- [ ] Predictive regression modeling using Scikit-Learn
+### Statistical Analysis
+- Pearson correlation analysis
+- PM₂.₅ / PM₁₀ ratio analysis
+- Pollutant relationship analysis
+- Regional comparison
+- ANOVA testing
+- Kruskal-Wallis testing
 
-## 👤 Author
+### Machine Learning
 
-**Hriday Goyal**
+A **Random Forest Regressor** was used to model PM₂.₅ concentration from available pollutant measurements.
+
+**Model evaluation:**
+
+| Metric | Result |
+|---|---:|
+| RMSE | 26.81 µg/m³ |
+| R² | 0.3761 |
+
+The model achieved an R² of approximately 0.38, indicating that the selected features explain a meaningful but limited portion of the variation in PM₂.₅ concentration.
+
+### Feature Importance
+
+PM₁₀ was the most influential feature in the Random Forest model, accounting for approximately **59.36%** of the model's feature-importance score.
+
+Feature importance indicates the contribution of a feature to the model's predictive decisions; it should not be interpreted as a causal relationship.
+
+## 📌 Preliminary Findings
+
+- PM₂.₅ showed its strongest linear correlations with **NO₂ (r = 0.21)** and **CO (r = 0.21)** among the analyzed pollutants.
+- O₃ showed a comparatively weak linear correlation with PM₂.₅ (**r = 0.05**).
+- Several monitoring locations in the Indo-Gangetic region and National Capital Region showed high average PM₂.₅ concentrations.
+- The average PM₂.₅ / PM₁₀ ratio in the analyzed data was approximately **72.6%**.
+
+These findings describe statistical associations in the analyzed dataset and should not be interpreted as proof of specific pollution sources or causal mechanisms.
+
+## 🗂️ Project Structure
+
+```text
+indian-air-quality-analysis/
+├── README.md
+├── requirements.txt
+├── cpcb_realtime_aqi_clean.csv
+└── notebooks/
+    └── 01_data_profiling.ipynb
